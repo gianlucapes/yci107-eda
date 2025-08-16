@@ -1,0 +1,17 @@
+services:
+  yci107-eda:
+    build: .
+    ports:
+      - "8002:8002"
+    volumes:
+      - .:/app
+    env_file:
+      - .env_docker
+    restart: always
+
+    networks:
+      - yci107_network
+
+networks:
+  yci107_network:
+    external: true
