@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+.vscode/
+/notebooks/results
+/notebooks/my_finetuned_model
