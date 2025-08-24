@@ -1,0 +1,992 @@
+```csv
+obiettivo,id,data,indicatore,utente,testo
+0,1468543510,Mar Apr 07 02:19:00 PDT 2009,NO_QUERY,robynicole,L'insonnia mi sta tormentando. Lo odio!!!
+0,1468543555,Mar Apr 07 02:19:01 PDT 2009,NO_QUERY,LeahEarnshaw,@Laura6476 no non lo sono. Andremo però queste vacanze. Voglio davvero vederlo
+0,1468543584,Mar Apr 07 02:19:01 PDT 2009,NO_QUERY,shoxcorp,ho fatto cadere uno degli auricolari delle mie sennheiser nel mio tè, spero davvero che funzionerà di nuovo :'(
+0,1468543671,Mar Apr 07 02:19:03 PDT 2009,NO_QUERY,Jo_Jo85,"Ugh caffè, per favore! Essere al lavoro alle 6:45 non fa bene al mio cervello, ora si sta ufficialmente sciogliendo"
+0,1468543963,Mar Apr 07 02:19:09 PDT 2009,NO_QUERY,ian_si,"@ambermatson È terribile, vero? Non aspettarti molti terremoti in Europa, di certo non brutti"
+0,1468544240,Mar Apr 07 02:19:14 PDT 2009,NO_QUERY,dineanddashed,@binncheol dovresti ascoltare un po' di musica di questo tipo chiamato Andy Hull e alcuni altri tipi. Ho anche sentito che suoneranno a Londra domani!
+0,1468544266,Mar Apr 07 02:19:15 PDT 2009,NO_QUERY,bryjane,Niente snoo-snoo per te
+0,1468544449,Mar Apr 07 02:19:19 PDT 2009,NO_QUERY,roospy,i computer potrebbero essere operativi ma non c'è ancora molto da fare
+0,1468544893,Mar Apr 07 02:19:31 PDT 2009,NO_QUERY,jessalyn,"Credo che il WiFi sul mio iPhone sia rotto. Si ""collega"", ma quando devo effettivamente usarlo è un'altra storia..."
+0,1468544973,Mar Apr 07 02:19:32 PDT 2009,NO_QUERY,rkhooks,@lejeff oh cavolo! Sto uscendo con i vecchietti in Inghilterra. Sarò sicuramente pronto per uno quando tornerò. Però
+0,1468545035,Mar Apr 07 02:19:34 PDT 2009,NO_QUERY,CINDAAA,Guardando Death Race.... ho scoperto che Sandra Cantu è morta
+0,1468545106,Mar Apr 07 02:19:35 PDT 2009,NO_QUERY,aliawesome,serata pizza e mi sento troppo male
+0,1468545846,Mar Apr 07 02:19:52 PDT 2009,NO_QUERY,darren56,gioca a basket oggi? lol. voglio andare al pub
+0,1468545912,Mar Apr 07 02:19:53 PDT 2009,NO_QUERY,IFeelloved_DiB,"@FrumiousMe Erano gli antibiotici per la devitalizzazione. Prenderò la Polaramine stasera per l'orticaria, gli altri sintomi sono scomparsi ora, grazie a Dio."
+0,1468545927,Mar Apr 07 02:19:54 PDT 2009,NO_QUERY,miss_maartje,non è impressionata dalla pioggia - volevo andare a fare shopping al mercato, bleah.
+0,1468546091,Mar Apr 07 02:19:57 PDT 2009,NO_QUERY,suchducks,@choadmalma vorrei poter collegare le cose bene come te
+0,1468546258,Mar Apr 07 02:20:01 PDT 2009,NO_QUERY,ErinLRay,sì... sono passate 6 settimane. Una signora della nostra chiesa la sta guardando.
+0,1468546456,Mar Apr 07 02:20:04 PDT 2009,NO_QUERY,Thaedydal,"@darraghdoyle ah vai, non dire così"
+0,1468546637,Mar Apr 07 02:20:07 PDT 2009,NO_QUERY,eriWz,fuori piove. sembra neve ma piove
+0,1468547124,Mar Apr 07 02:20:17 PDT 2009,NO_QUERY,fatchris,@mousenator piangere?
+0,1468547246,Mar Apr 07 02:20:19 PDT 2009,NO_QUERY,h4nn4hhh,@andy_cyrus sono ancora sveglia anch'io lol non riesco a dormire, sono contenta che tu sia sveglio però (:
+0,1468547530,Mar Apr 07 02:20:25 PDT 2009,NO_QUERY,ErinLRay,"@kellymreynolds sì... sono passate 6 settimane. Una signora della nostra chiesa la sta guardando."
+0,1468547591,Mar Apr 07 02:20:27 PDT 2009,NO_QUERY,justinhartman,"@JasonVonBerg Ho pubblicizzato sul nostro blog, tramite siti di carriera e utilizzato agenzie... non so come altro fare..."
+0,1468547871,Mar Apr 07 02:20:32 PDT 2009,NO_QUERY,brainfluff,@iamnipper la scorsa settimana avevano la bicicletta senza sella
+0,1468548172,Mar Apr 07 02:20:38 PDT 2009,NO_QUERY,_owl_,@justagirl79 È fantastico per la tua licenza! Vorrei che avessi avuto indietro il resto.
+0,1468548353,Mar Apr 07 02:20:42 PDT 2009,NO_QUERY,frenchshiver,incazzato perché un amico è troppo occupato per vedermi oggi
+0,1468548587,Mar Apr 07 02:20:48 PDT 2009,NO_QUERY,petebw,caffè @33 si sta trasformando in Starbucks (per quanto riguarda i bambini selvaggi)
+0,1468548615,Mar Apr 07 02:20:49 PDT 2009,NO_QUERY,James_yeah,"@achmadsirman sì, lo sono, infatti la vernice spray è per il bastardino, ho avuto dei problemi e quindi non ho ancora finito"
+0,1468548785,Mar Apr 07 02:20:52 PDT 2009,NO_QUERY,ShikhaBirdie,A casa della mia mamma... tutti continuano a darmi nuove opzioni per studiare o lavorare. Mi confondo sempre di più ogni giorno che passa...
+0,1468548790,Mar Apr 07 02:20:52 PDT 2009,NO_QUERY,Spitphyre,"@axon quelli sono stati cancellati, ora tutti gli altri mi stanno scuotendo il cervello e mi fanno bestemmiare terribilmente!!"
+0,1468548897,Mar Apr 07 02:20:54 PDT 2009,NO_QUERY,livvvyyy,stanca, niente da fare oggi
+0,1468549477,Mar Apr 07 02:21:07 PDT 2009,NO_QUERY,remcobron,@gvenk Grazie! @AlexanderNL Scusa
+0,1468549512,Mar Apr 07 02:21:08 PDT 2009,NO_QUERY,Saffy,Miao, oggi è un giorno di oppiacei prescritti, penso, grrr
+0,1468549633,Mar Apr 07 02:21:10 PDT 2009,NO_QUERY,richontwitter,"@ladybug27 Dannazione! Ho perso? Perché non mi hai invitato?"
+0,1468549786,Mar Apr 07 02:21:13 PDT 2009,NO_QUERY,cole007,@RellyAB probabilmente non potrò partecipare - piangendo per tutta la strada di casa
+0,1468550134,Mar Apr 07 02:21:20 PDT 2009,NO_QUERY,kazaroth,@spanx tranne che ho perso la S.Lee della settimana scorsa e ora è sparito da iPlayer
+0,1468550704,Mar Apr 07 02:21:33 PDT 2009,NO_QUERY,embee,@jamrock dove è andato Top Cat?
+0,1468550790,Mar Apr 07 02:21:35 PDT 2009,NO_QUERY,amygirl28,si sta prendendo il raffreddore, che schifo!!
+0,1468551322,Mar Apr 07 02:21:45 PDT 2009,NO_QUERY,wu_hu,"@kev_nz LOL meglio far sapere ad aboy021 se farà il deploy prima della sua ora di andare a letto alle 9:30. Spero ti senta meglio. Essere malato fa schifo"
+0,1468551419,Mar Apr 07 02:21:47 PDT 2009,NO_QUERY,bodhibuggy,non riesce a dormire.
+0,1468551456,Mar Apr 07 02:21:48 PDT 2009,NO_QUERY,HannaManna,"Questo è tutto gente, la primavera è andata e l'inverno è tornato... fuori nevica"
+0,1468551761,Mar Apr 07 02:21:55 PDT 2009,NO_QUERY,frenchshiver,incazzato perché un amico è troppo occupato per vedermi oggi
+0,1468551775,Mar Apr 07 02:21:55 PDT 2009,NO_QUERY,Moe_Weather,"@Bradqb13 Conosco quella sensazione, amico. Resta tranquillo per un po'. Alcune persone sono fatte così..."
+0,1468551802,Mar Apr 07 02:21:55 PDT 2009,NO_QUERY,Baby_Queen,"tempo nuvoloso di nuovo, tutti i giorni alla stessa ora piovoso"
+0,1468552124,Mar Apr 07 02:22:04 PDT 2009,NO_QUERY,OhLiviAhh,sta ripassando
+0,1468552130,Mar Apr 07 02:22:03 PDT 2009,NO_QUERY,dmi,@catvix Sono io? Notizia per me. E mi dispiace per il lavoro
+0,1468552168,Mar Apr 07 02:22:04 PDT 2009,NO_QUERY,mars__,"Red Jaguars, Blue Barracudas, Green Monkeys, Orange Iguanas, Purple Parrots e Silver Snakes... ti ricordi Legends of the Hidden Temple?"
+0,1468552490,Mar Apr 07 02:22:11 PDT 2009,NO_QUERY,effyobie,"@hairpins haha, beh cosa ti fa pensare che tu non usi parole grandi? SADISTICO! :p cosa ho detto comunque? e no non lo faccio, scusa tesoro"
+01468552807,Mar Apr 07 02:22:18 PDT 2009,NO_QUERY,DethInvictus,"@Frumph Ti abbraccerei anch'io! Povero Frumph....."
+0,1468552892,Mar Apr 07 02:22:20 PDT 2009,NO_QUERY,mikaylaSTACKkk,Andre Riue sui vicini..a che punto siamo arrivati...internet non funziona lol
+0,1468553164,Mar Apr 07 02:22:26 PDT 2009,NO_QUERY,scorpiolady1,"Sembra che oggi pioverà, scommetto che pioverà a secchi non appena uscirò dalla porta principale, è sempre così!!!!, tutto in discesa da oggi"
+0,1468553183,Mar Apr 07 02:22:26 PDT 2009,NO_QUERY,courty27,@renee_66 okie dokie! vuoi chiedere ad Ash, Tegan e Yasmin? ho chiesto a Nicole ma ha detto che non può
+0,1468553296,Mar Apr 07 02:22:29 PDT 2009,NO_QUERY,Soozintheshed,Tosse a polmoni aperti - di nuovo! L'ho avuta a intermittenza da Natale
+0,1468553645,Mar Apr 07 02:22:37 PDT 2009,NO_QUERY,Danni_JH,ho la lingua dolorante dopo essermi bruciata con il chili ieri sera. Ho passato una bella giornata ieri.. grazie ragazzi!
+0,1468554091,Mar Apr 07 02:22:48 PDT 2009,NO_QUERY,SamRinny,Sono sveglio, ragazzi, lol
+0,1468554127,Mar Apr 07 02:22:48 PDT 2009,NO_QUERY,cheile,@odo_snape_maven ahi! il software di dettatura non rileva il sussurro, eh? so che Meleney ce l'ha ma non so quanto sia buona la ricezione del suono.
+0,1468554814,Mar Apr 07 02:23:05 PDT 2009,NO_QUERY,mrhankmanthe3rd,@lauraEchilds va bene, non ti compenserò. controlla il tuo dm?
+0,1468554937,Mar Apr 07 02:23:07 PDT 2009,NO_QUERY,MichAtagana,abbastanza malata, vado dal medico ora
+0,1468555325,Mar Apr 07 02:23:16 PDT 2009,NO_QUERY,wdtech,brutta giornata
+0,1468555873,Mar Apr 07 02:23:30 PDT 2009,NO_QUERY,TRock21,Porto i genitori all'aeroporto... non sono entusiasta di alzarmi così presto. Devo andare al lavoro alle 8.
+0,1468555920,Mar Apr 07 02:23:31 PDT 2009,NO_QUERY,Justine_xxx,"si è appena conficcata il mascara nell'occhio, ma amo il mascara, è una benedizione"
+0,1468556168,Mar Apr 07 02:23:36 PDT 2009,NO_QUERY,mattbeetar,"@MichAtagana Peccato, cosa c'è che non va?"
+0,1468556456,Mar Apr 07 02:23:43 PDT 2009,NO_QUERY,wheelychris,Ho appena ricevuto il mio saggio di Streetcar da Jerry e non va ancora bene... oh uomo, questa sarà una brutta giornata
+0,1468556545,Mar Apr 07 02:23:45 PDT 2009,NO_QUERY,Darko_Kun,L'episodio di House di stasera è stato triste. Non posso credere che abbia lasciato lo show! Non riesco più a stare sveglio, sono stanco morto. Ho avuto una lunga giornata. È ora di dormire!
+0,1468556667,Mar Apr 07 02:23:48 PDT 2009,NO_QUERY,SterlingHug,"Sono le 5:23 e sono seduto a guardare a malapena I'm Not There. Volevo davvero vedere quel film, ma continuo a distrarmi."
+0,1468556716,Mar Apr 07 02:23:48 PDT 2009,NO_QUERY,iforwms,"Ultimo giorno a casa oggi. Prendo il treno domani alle 10. È stata una bella pausa! Ma ora ho bisogno di fare colazione, una doccia e una rasatura!"
+0,1468556849,Mar Apr 07 02:23:52 PDT 2009,NO_QUERY,cmckelvey,"ha un gatto malato a casa, vorrei essere lì per tenerle la pelliccia e passarle i fazzoletti"
+0,1468557461,Mar Apr 07 02:24:04 PDT 2009,NO_QUERY,sethjeffery,"@chester_see Sì, spesso rischio di correre giù per le scale del DLR ma oggi ho mancato l'ultimo gradino e mi sono slogato la caviglia."
+0,1468557855,Mar Apr 07 02:24:13 PDT 2009,NO_QUERY,karlkempobrien,Perché ci vuole così tanto per affrontare una lezione che ha richiesto solo 52 minuti per essere tenuta?! e fuori c'è il sole. Qualcuno mi sta prendendo in giro
+0,1468558626,Mar Apr 07 02:24:30 PDT 2009,NO_QUERY,tonibalony89,Un altro compito da fare! E cena con papà domani!
+0,1468558857,Mar Apr 07 02:24:35 PDT 2009,NO_QUERY,rainonroof,@JenMcJ lo controllerò. Voglio solo un paio da leggere mentre sono via. Uno nuovo a Liquid Silver. Solo buone letture - ho letto della spazzatura ultimamente
+0,1468558868,Mar Apr 07 02:24:36 PDT 2009,NO_QUERY,jonny_wright85,Lavorando ma non vedo l'ora di andare in Thailandia e di questo fine settimana di festa!
+0,1468560687,Mar Apr 07 02:25:13 PDT 2009,NO_QUERY,O_Renn,Ewww biscotti e cola non si mescolano bene... Ora mi fa male la pancia
+0,1468560811,Mar Apr 07 02:25:15 PDT 2009,NO_QUERY,teenymunchkins,@childrensjewell così dannatamente fastidioso quando succede, vero?? Spero che non copi il tuo lavoro
+0,1468560814,Mar Apr 07 02:25:16 PDT 2009,NO_QUERY,kingkbk,Eminem We Made You è SPAZZATURA[/Rosci]! Prenderò l'album di Asher Roth invece, fanculo a lui per il suo flow "culo così"!
+0,1468560841,Mar Apr 07 02:25:16 PDT 2009,NO_QUERY,lilprincstasha,Sveglia da un po'... Malata
+0,1468561079,Mar Apr 07 02:25:21 PDT 2009,NO_QUERY,krist0ph3r,"@mokshjuneja sì, è una festa ma tutti gli altri lavorano. treni, traffico, tutto incasinato come al solito"
+0,1468561183,Mar Apr 07 02:25:23 PDT 2009,NO_QUERY,quinniiii,bleah. odio lavorare alle 5:45 del mattino ogni giorno.
+0,1468561339,Mar Apr 07 02:25:27 PDT 2009,NO_QUERY,MrsJeff,Mal di testa. Ancora un po' assonnata! Mi manca il mio bambino così tanto adesso. SVEGLIATI!
+0,1468561830,Mar Apr 07 02:25:37 PDT 2009,NO_QUERY,timwhitlock,L'album di Flight of the Conchords è *scomparso* da Spotify. Che succede @spotify_com?
+0,1468561884,Mar Apr 07 02:25:38 PDT 2009,NO_QUERY,Laura6476,@LeahEarnshaw awww mi dispiace
+0,1468562141,Mar Apr 07 02:25:43 PDT 2009,NO_QUERY,tokyodrastic,La primavera è finalmente arrivata! Fiori di ciliegio a profusione! Peccato che siano così temporanei
+0,1468562484,Mar Apr 07 02:25:50 PDT 2009,NO_QUERY,smafian,la testa è stata colpita da una porta oggi.
+0,1468562542,Mar Apr 07 02:25:51 PDT 2009,NO_QUERY,teenymunchkins,@MilkyMooMoo bleah! bilanci di fine anno. Devo iniziare i miei anch'io!
+0,1468562671,Mar Apr 07 02:25:54 PDT 2009,NO_QUERY,joegbs,Questo è incredibile. Ma riesco a ottenere solo 41 parole al minuto http://play.typeracer.com/
+0,1468562701,Mar Apr 07 02:25:54 PDT 2009,NO_QUERY,theXartist,"@flowersophy Ho dormito così tanto quando ero una bambina! Ho iniziato a dormire meno bene quando ho compiuto 20 anni"
+0,1468563166,Mar Apr 07 02:26:04 PDT 2009,NO_QUERY,milan_pandya,perché gli amici festeggiano mentre tu sei a digiuno
+0,1468563245,Mar Apr 07 02:26:06 PDT 2009,NO_QUERY,HudsonKent,Annoiato di Sims per oggi. Sto ancora pensando a un nome per il mio account YouTube e quello di Luke per pubblicare il nostro nuovo fantastico video, idee gente!!
+0,1468563532,Mar Apr 07 02:26:12 PDT 2009,NO_QUERY,mathieule,voglio essere trendy
+0,1468563648,Mar Apr 07 02:26:14 PDT 2009,NO_QUERY,PtSwager,stanco, cosa significa pt swagger? mi piace il suono
+0,1468563763,Mar Apr 07 02:26:17 PDT 2009,NO_QUERY,holly_oldham,mi sento come se avessi trascurato Twilight, mi dispiace lol
+0,1468563907,Mar Apr 07 02:26:20 PDT 2009,NO_QUERY,yayitsfoogie,"@Katestar Oh sì, estremamente divertente quando la persona con cui parli non vuole davvero parlare con te... Sono così sola"
+0,1468564279,Mar Apr 07 02:26:28 PDT 2009,NO_QUERY,KingOrKami,"Aggiunto il sistema DNS, la compatibilità è ok e non vedo l'ora delle possibilità ora aperte. Ma devo rielaborare la sequenza introduttiva"
+0,1468564407,Mar Apr 07 02:26:31 PDT 2009,NO_QUERY,ThinCasey12,Niente rubinetto dell'acqua fredda nel nostro bagno, mi manca l'acqua fredda
+0,1468564669,Mar Apr 07 02:26:36 PDT 2009,NO_QUERY,roopambahl,Un altro incidente con una scarpa! Il giornalista Jarnail Singh ha lanciato una scarpa al Ministro dell'Interno Chidambaram!! Ma ha mancato il bersaglio
+0,1468564766,Mar Apr 07 02:26:39 PDT 2009,NO_QUERY,edwinvdbogert,Mi sono rotto un dente ieri, sembra che sia spaccato a metà.
+0,1468564855,Mar Apr 07 02:26:41 PDT 2009,NO_QUERY,annaleseisdead,@Wonginator vorrei essere in vacanza di primavera...
+0,1468565000,Mar Apr 07 02:26:44 PDT 2009,NO_QUERY,VAMBAY,@theresaxo Non riesco ancora a credere che tu debba traslocare. Verrò dopo il lavoro per aiutarti a dipingere. aww RIP il tuo muro
+0,1468565098,Mar Apr 07 02:26:46 PDT 2009,NO_QUERY,Hollywood_Trey,@justanotherjerk Voglio vedere ""No Doubt"" così tanto!!!"
+0,1468565154,Mar Apr 07 02:26:47 PDT 2009,NO_QUERY,IcarusWingz,Aw - gli Snapcase non si riuniranno... Devo averlo sognato
+0,1468565211,Mar Apr 07 02:26:49 PDT 2009,NO_QUERY,scorpiolady1,"@JonathanRKnight Hai twittato parecchio, e io li ho persi, sono felice di vedere che ti stai divertendo, sempre bello sentirti. x"
+0,1468565480,Mar Apr 07 02:26:54 PDT 2009,NO_QUERY,Powla,Vorrei che avessimo internet veloce ADESSO.... non tra 8 anni! http://bit.ly/I72Oi
+0,1468565566,Mar Apr 07 02:26:56 PDT 2009,NO_QUERY,Trummell,Mi preparo per il lavoro... 6:30-3:15.. ..
+0,1468565579,Mar Apr 07 02:26:56 PDT 2009,NO_QUERY,Jad1987,stupida Abbey National!! Devo prelevare soldi ed è maledettamente chiusa!
+0,1468565652,Mar Apr 07 02:26:58 PDT 2009,NO_QUERY,HKHam,@imagethief So dove l'hai trovato... Ma la tua URL è molto più piccola della mia
+0,1468566147,Mar Apr 07 02:27:09 PDT 2009,NO_QUERY,cecilia_rollen,"trovandola incredibilmente ingiusta che la mamma si sia abbronzata più di me, anche se ho passato più tempo al sole, mi manca da morire!"
+0,1468566187,Mar Apr 07 02:27:10 PDT 2009,NO_QUERY,Suw,"@Dr_Black sì, sono stato invitato ma sarò a San Francisco. Mi dispiace molto perderlo"
+0,1468566413,Mar Apr 07 02:27:15 PDT 2009,NO_QUERY,shirodkartejas,Le mie statistiche della classifica DotA su GArena non sembrano essere state aggiornate
+0,1468566578,Mar Apr 07 02:27:19 PDT 2009,NO_QUERY,djpain,Leanne è arrabbiata con me
+0,1468566786,Mar Apr 07 02:27:24 PDT 2009,NO_QUERY,mattbeetar,"@MichAtagana Ahh mi dispiace. Sembra che ci sia un brutto virus in giro... Che peccato Atagana!"
+0,1468566821,Mar Apr 07 02:27:24 PDT 2009,NO_QUERY,HazeBeLit,"Amber, non so quanto spesso controlli questo, ma mi manchi davvero tanto in questo momento. Davvero tanto. Voglio un abbraccio &lt;/Beth&gt;"
+0,1468566823,Mar Apr 07 02:27:25 PDT 2009,NO_QUERY,leppardette,Ho mangiato troppi Oreo ieri. Mi sento molto male oggi
+0,1468566973,Mar Apr 07 02:27:27 PDT 2009,NO_QUERY,pjvandesande,"@mauricedb Ho provato anche lo Sitecom, ma mi sembrava troppo giocattolo"
+0,1468567016,Mar Apr 07 02:27:28 PDT 2009,NO_QUERY,lah3x,Non mi piacerà mai alzarmi alle 5 del mattino, stupido orario di lavoro.
+0,1468567161,Mar Apr 07 02:27:32 PDT 2009,NO_QUERY,Mina_Minaa,ho bisogno di coccole adesso
+0,1468567420,Mar Apr 07 02:27:38 PDT 2009,NO_QUERY,epi_longo,"http://tr.im/imOv ï¿½i, bï¿½c H?i Tho?i th? lï¿½ giï¿½ t? cu?c ??i r?i ( Mï¿½nh v?n cï¿½n nh? cï¿½i nhï¿½ t?p th? bï¿½ tï¿½ c?a bï¿½c ï¿½ ? ch? Tr?i "
+0,1468567566,Mar Apr 07 02:27:41 PDT 2009,NO_QUERY,gracec02,Awww le mie Whitestrips non restano attaccate
+0,1468567750,Mar Apr 07 02:27:45 PDT 2009,NO_QUERY,sugree,Soluna è più lenta di Accord
+0,1468568084,Mar Apr 07 02:27:53 PDT 2009,NO_QUERY,mcCutcheon,@Contendo merda... è orribile! povero ragazzo...
+0,1468568311,Mar Apr 07 02:27:58 PDT 2009,NO_QUERY,generousdesignr,Btw Eventbox è disponibile gratuitamente su Macheist per tutti i visitatori. Purtroppo sono passato a Tweetdeck http://macheist.com
+0,1468568623,Mar Apr 07 02:28:04 PDT 2009,NO_QUERY,ronanohart,la mia schiena è a pezzi
+0,1468568699,Mar Apr 07 02:28:06 PDT 2009,NO_QUERY,d33j4y,"hmm, quindi il sole che splende attraverso le mie tende ha illuminato la mia stanza e mi ha svegliato. non riesco a dormire adesso, le 10 sono troppo presto per svegliarsi!"
+0,1468569024,Mar Apr 07 02:28:11 PDT 2009,NO_QUERY,masoomtulsiani,odia le lezioni di matematica durante le vacanze.. volevo sincronizzare il mio i-pod con le ultime tracce e podcast! Dovrò aspettare di tornare a casa #fb
+0,1468569320,Mar Apr 07 02:28:18 PDT 2009,NO_QUERY,thaibaminh,V?a bï¿½ d?y kh?i gi??ng. M?t quï¿½
+0,1468569419,Mar Apr 07 02:28:21 PDT 2009,NO_QUERY,jules_shorty,@garcevisage Aww il tuo microfono ha funzionato?
+0,1468569726,Mar Apr 07 02:28:27 PDT 2009,NO_QUERY,FatherBennyCake,"@Gemmaface Aww Gemma, spero tu non sia"
+0,1468570008,Mar Apr 07 02:28:33 PDT 2009,NO_QUERY,CathyIreland,Dov'è la mia barra di ricerca? Come mai Aoife ne ha una e io no? Twitter deve preferirla a me
+0,1468570328,Mar Apr 07 02:28:40 PDT 2009,NO_QUERY,eleanorng,@suilin nobuuuuuuu!!! sei una ragazza malvagia
+0,1468570594,Mar Apr 07 02:28:45 PDT 2009,NO_QUERY,wwjackjohnsondo,Vorrei stare giocando a Reindeer Games a Fowler...
+0,1468570828,Mar Apr 07 02:28:50 PDT 2009,NO_QUERY,__juh__,cercando di scrivere un saggio in inglese. Doloroso
+0,1468570860,Mar Apr 07 02:28:51 PDT 2009,NO_QUERY,Sharontweet,@missymoouk Oh no!! Lo so. Non ho pianto così tanto da quando gli Wham si sono sciolti.....
+0,1468570896,Mar Apr 07 02:28:51 PDT 2009,NO_QUERY,tinker6274,mamma... la scuola è chiusa oggi?
+0,1468570995,Mar Apr 07 02:28:54 PDT 2009,NO_QUERY,xxloolooxx,@WestEndActress nooo non avresti dovuto cancellarlo x
+0,1468571245,Mar Apr 07 02:28:58 PDT 2009,NO_QUERY,chloehalone,"@kaitlinmonroe Aww, sembra così divertente! Sono così delusa di averlo perso. Sei riuscita a incontrare qualcuno?"
+0,1468571262,Mar Apr 07 02:28:59 PDT 2009,NO_QUERY,Celz29,cercando di controllare la mia bolletta telefonica online, ma sembra che non mi voglia bene!
+0,1468571685,Mar Apr 07 02:29:09 PDT 2009,NO_QUERY,franforlizzi,Manu Ginobili è fuori per il resto della stagione e i playoff
+0,1468571755,Mar Apr 07 02:29:11 PDT 2009,NO_QUERY,newtriks,"Sì, adoro FireBug ma basta, inizierò a usare Safari4/Charles + abbandonerò FF e vedrò come vanno i debugging, troppi crash di FF"
+0,1468571863,Mar Apr 07 02:29:13 PDT 2009,NO_QUERY,bryanparker,I film tristi mi fanno pensare a cose a cui non voglio davvero pensare
+0,1468571878,Mar Apr 07 02:29:13 PDT 2009,NO_QUERY,ninjamoeba,Vorrei che ci fosse qualcosa per cena.
+0,1468572021,Mar Apr 07 02:29:16 PDT 2009,NO_QUERY,DG_09,Sono sveglio... ho dormito un'ora ieri sera... Morte....
+0,1468572028,Mar Apr 07 02:29:16 PDT 2009,NO_QUERY,nicolasgilles,a prendere il cane, il certificato medico, e tornare al lavoro
+0,1468572476,Mar Apr 07 02:29:27 PDT 2009,NO_QUERY,RedVelvetHeart,"mi hanno appena dato i miei ordini, devo andare a lavorare, evviva"
+0,1468572912,Mar Apr 07 02:29:37 PDT 2009,NO_QUERY,andrewmcphee,"muovi muovi muovi, continua a muovere quelle scatole, Rawhide!! credo di essere impazzito a furia di muovermi"
+0,1468572937,Mar Apr 07 02:29:38 PDT 2009,NO_QUERY,serengetisunset,Perché Changes di 2Pac non è su iTunes? Che peccato
+0,1468573416,Mar Apr 07 02:29:49 PDT 2009,NO_QUERY,jmason,"ugh. stupido bug nel backend di SpamAssassin rule-QA scoperto, ci vorrà un po' per sistemarlo. aggiunto alla lista TODO"
+0,1468573554,Mar Apr 07 02:29:51 PDT 2009,NO_QUERY,jnjr83,@babyvtec sì.. Hw
+0,1468573574,Mar Apr 07 02:29:51 PDT 2009,NO_QUERY,123lottie,il tuttofare mi ha appena dato buca
+0,1468573723,Mar Apr 07 02:29:55 PDT 2009,NO_QUERY,hodgkinsonx,ciao twittatori, sono così stanco in questo momento. MI STO ADDORMENTANDO SU MSN! Penso che oggi sarà una giornata meno pigra ;P xx
+0,1468573879,Mar Apr 07 02:29:58 PDT 2009,NO_QUERY,katkin85,stanco di stare male
+0,1468574100,Mar Apr 07 02:30:02 PDT 2009,NO_QUERY,rehan_92,wow. tutti hanno abbandonato Twitter
+0,1468574354,Mar Apr 07 02:30:05 PDT 2009,NO_QUERY,RedVelvetHeart,"mi hanno appena dato i miei ordini, devo andare a lavorare, evviva"
+0,1468574812,Mar Apr 07 02:30:13 PDT 2009,NO_QUERY,retorta,"@andrerib Oh, oggi non mi è possibile. Questioni familiari, ma cercherò di partecipare alla prossima!"
+0,1468574970,Mar Apr 07 02:30:16 PDT 2009,NO_QUERY,sadeburnett,buongiorno mondo. ho il raffreddore.. mi brucia la gola!
+0,1468575290,Mar Apr 07 02:30:21 PDT 2009,NO_QUERY,yazza9,Buongiorno gente. Vado a fare colazione e poi mi sistemo e poi devo iniziare i compiti, niente pigrizia oggi. Xx
+0,1468575292,Mar Apr 07 02:30:21 PDT 2009,NO_QUERY,LDelphian,Credo che dovrei andare a letto... Devo alzarmi tra 5,5 ore... non riesco a dormire ultimamente, troppo stressato perché il sito non è ancora pronto
+0,1468575547,Mar Apr 07 02:30:26 PDT 2009,NO_QUERY,wakeuphate,"@aventure Questo è Windows per te... Devo affrontare circa 20 server Windows e 180 macchine Windows che si comportano male ogni giorno... sparami"
+0,1468575633,Mar Apr 07 02:30:28 PDT 2009,NO_QUERY,jnjr83,"@babyvtec cavolo, è così tardi per te!! Buona fortuna al lavoro domani. Sono così stanca anch'io. Ti voglio bene!"
+0,1468575832,Mar Apr 07 02:30:32 PDT 2009,NO_QUERY,RedVelvetHeart,"mi hanno appena dato i miei ordini, devo andare a lavorare, evviva........."
+0,1468576197,Mar Apr 07 02:30:38 PDT 2009,NO_QUERY,shutupstupidho,@DanaEatsYou ahahaha mi dispiace non volevo. e dovresti filmare il giorno della sciocchezza! è barare farlo il giorno prima!
+0,1468576909,Mar Apr 07 02:30:52 PDT 2009,NO_QUERY,scorpiolady1,"@DonnieWahlberg Sagge parole ma la vita a volte non va come si pianifica, la vita ha l'abitudine di buttarti giù quando sei già a terra."
+0,1468577526,Mar Apr 07 02:31:03 PDT 2009,NO_QUERY,abby_behappy,Mamma mia, piove d'estate a causa del riscaldamento globale?
+0,1468577939,Mar Apr 07 02:31:12 PDT 2009,NO_QUERY,Lani_bears,@Pigman adoro il tempo più fresco con il trenchcoat!! ma NON voglio le sere più buie perché è spaventoso correre di notte
+0,1468577950,Mar Apr 07 02:31:12 PDT 2009,NO_QUERY,punkie331,chiudo gli occhi e vedo il tuo viso.. :/ quando finirà? ::sospiro per 5 volte::
+0,1468578020,Mar Apr 07 02:31:14 PDT 2009,NO_QUERY,rebekahthornton,Ho salutato il marito a Bristol! Mi manca già
+0,1468578118,Mar Apr 07 02:31:15 PDT 2009,NO_QUERY,jorja_xoxo,Facendo i compiti
+0,1468578189,Mar Apr 07 02:31:17 PDT 2009,NO_QUERY,AviiS,@HopeOk ma lo sarò presto. -muore-
+0,1468578405,Mar Apr 07 02:31:22 PDT 2009,NO_QUERY,l_brown,"@rustyrockets Ti darò cinque sterline per la multa - non molto, ma sono al verde per aver pagato la ceretta alle sopracciglia di Al Darling"
+0,1468578466,Mar Apr 07 02:31:23 PDT 2009,NO_QUERY,DonMcAllister,"Hmm, una richiesta per me di presentare un'app sul mio sito da uno ""Specialista di Marketing"" (sic) indirizzata a ""Caro Editore!"" Oh caro"
+0,1468578538,Mar Apr 07 02:31:24 PDT 2009,NO_QUERY,risha_,@nishitd NO! Ho perso tutto.. dal 1/4 in poi. Stupido lavoro che mi intralcia il tennis.
+0,1468578704,Mar Apr 07 02:31:27 PDT 2009,NO_QUERY,nick730,Pensavo che questa settimana di 4 giorni avrebbe reso il martedì più sopportabile. Mi sbagliavo
+0,1468578809,Mar Apr 07 02:31:30 PDT 2009,NO_QUERY,joanneeadie,Sono più stanca di una cosa molto stanca oggi.
+0,1468579125,Mar Apr 07 02:31:37 PDT 2009,NO_QUERY,mr_trick,"@Mark_Mulligan Esatto! Questo era il fulcro del mio concetto per Virgin. Peccato solo che i soldi siano finiti prima che potessimo realizzarlo"
+0,1468579507,Mar Apr 07 02:31:46 PDT 2009,NO_QUERY,spikylau,@jonathanchong Potrei farcela per una settimana lunga
+0,1468579783,Mar Apr 07 02:31:51 PDT 2009,NO_QUERY,ian_si,"@ambermatson Sì, sembra essere stato molto peggio del normale negli ultimi mesi"
+0,1468580108,Mar Apr 07 02:31:58 PDT 2009,NO_QUERY,sarahearles,ho appena trovato il paio di occhiali da sole Dior vintage più belli... costano 125 sterline però
+0,1468580924,Mar Apr 07 02:32:14 PDT 2009,NO_QUERY,Tittch,"Sono una martire del lavoro. Datemi cioccolato, caffè e solidarietà. E ora il mio gatto ha deciso che sta morendo"
+0,1468580990,Mar Apr 07 02:32:16 PDT 2009,NO_QUERY,carenduff,"non molto, non sto bene, a letto tutto il giorno!!!"
+0,1468581148,Mar Apr 07 02:32:19 PDT 2009,NO_QUERY,ReekRude,Guardando la pioggia cadere a Rotterdam..
+0,1468581218,Mar Apr 07 02:32:21 PDT 2009,NO_QUERY,AmieSC,@eoghanquigg vorrei poterlo ma non sono da nessuna parte vicino a Belfast -- adoro la nuova canzone btw!
+0,1468582130,Mar Apr 07 02:32:41 PDT 2009,NO_QUERY,privateStatic,la febbre è iniziata, qualcuno ha rimedi miracolosi per il raffreddore?
+0,1468582346,Mar Apr 07 02:32:46 PDT 2009,NO_QUERY,mercuryvapour,"Mi sono davvero, davvero imbrattato la tazza"
+0,1468582414,Mar Apr 07 02:32:47 PDT 2009,NO_QUERY,MissNina,Perché la maggior parte dei video che riproduco salta e si blocca?
+0,1468582630,Mar Apr 07 02:32:53 PDT 2009,NO_QUERY,hayleyclaudia,ha i postumi della sbornia e vuole solo stare a letto tutto il giorno?
+0,1468582636,Mar Apr 07 02:32:53 PDT 2009,NO_QUERY,lexusperplexus,Ho appena configurato un profilo Twitter per uno dei miei colleghi e ho notato che ha una barra laterale molto più elegante - come posso ottenerla?
+0,1468582817,Mar Apr 07 02:32:57 PDT 2009,NO_QUERY,smilinglauz,Ha passato un fantastico 21° compleanno ma è malata di influenza
+0,1468582825,Mar Apr 07 02:32:57 PDT 2009,NO_QUERY,alfonsostreet,@fromthestars VOGLIO ANDARE A UN LUNA PARK. EK si sta stancando. :|
+0,1468582858,Mar Apr 07 02:32:57 PDT 2009,NO_QUERY,Wilkopops,"Ho appena fatto lezione di guida, è andata abbastanza bene. Devo smettere di incrociare le mani sul volante, a quanto pare, brutti momenti"
+0,1468583130,Mar Apr 07 02:33:04 PDT 2009,NO_QUERY,ChefShaneFrisco,"Ho trovato un bel parco sul lago con una piccola spiaggia, ma... niente barbecue. Beh... dovrò continuare a cercare, un'altra volta."
+0,1468583468,Mar Apr 07 02:33:10 PDT 2009,NO_QUERY,maddihorse,@billbeckett Sapevi che "tai" significa "merda" in indonesiano.
+0,1468583796,Mar Apr 07 02:33:18 PDT 2009,NO_QUERY,miss_rini,"sta temendo domani. ODIO gli ospedali, specialmente quando il paziente è il tuo bambino."
+0,1468583816,Mar Apr 07 02:33:18 PDT 2009,NO_QUERY,Chadwyn28,non mi sento molto bene
+0,1468584115,Mar Apr 07 02:33:25 PDT 2009,NO_QUERY,jamieyork,"@jedi58 Sì. L'intero gioco è stato tecnicamente sorprendente, sembrava fantastico. Sono deluso di aver venduto il gioco e la mia Xbox originale adesso."
+0,1468584621,Mar Apr 07 02:33:36 PDT 2009,NO_QUERY,bloodyorme,non vede l'ora di lavorare oggi
+0,1468584756,Mar Apr 07 02:33:39 PDT 2009,NO_QUERY,scorpiolady1,"Dannazione, cambio del tempo, ora ho il raffreddore, proprio la mia fortuna, non ho molta fortuna ultimamente... la vita fa schifo in questo momento"
+0,1468585401,Mar Apr 07 02:33:54 PDT 2009,NO_QUERY,andyroser24,@playandstay Beh, in realtà sono stato solo a Thorpe Park, quindi non vedo l'ora di andare ad Alton Towers!
+0,1468585560,Mar Apr 07 02:33:57 PDT 2009,NO_QUERY,gabbyortanez,VUOLE USCIRE DISPERATAMENTE
+0,1468586391,Mar Apr 07 02:34:16 PDT 2009,NO_QUERY,timd6156,è troppo presto per andare al lavoro
+0,1468586841,Mar Apr 07 02:34:25 PDT 2009,NO_QUERY,Micc_x,@bradiewebbstack sway sway tour a lugliooooo! emozionata tantissimo, seguitemi per favore, ho bisogno di più follower
+0,1468587360,Mar Apr 07 02:34:36 PDT 2009,NO_QUERY,0ppro,Vivo di Neurofen per un altro giorno. Per favore, vattene mal di testa.
+0,1468587896,Mar Apr 07 02:34:49 PDT 2009,NO_QUERY,joshua_love,inizierà a ripassare per gli esami di maggio
+0,1468587917,Mar Apr 07 02:34:49 PDT 2009,NO_QUERY,vindiekins,@LadyErlynne awwww. potresti sempre postare nell'aula di Trasfigurazione con Sharmila
+0,1468588126,Mar Apr 07 02:34:54 PDT 2009,NO_QUERY,laceylingerie,Devo andare in biblioteca a prendere dei libri sul maledetto was. Non ho più voglia di fare questi A levels
+0,1468588643,Mar Apr 07 02:35:04 PDT 2009,NO_QUERY,jessbabiixxx,niente, niente in TV, forse hanno finito i programmi
+0,1468588836,Mar Apr 07 02:35:07 PDT 2009,NO_QUERY,savagestar,"@RetraceLady @djslump Buongiorno! Oh no, altri? #terremoto #earthquake #italy"
+0,1468589177,Mar Apr 07 02:35:16 PDT 2009,NO_QUERY,frances90,si chiede seriamente cosa stessero pensando gli australiani a cacciare il mio bambino Kat da SYTYCD! Mi manca già...
+0,1468589198,Mar Apr 07 02:35:16 PDT 2009,NO_QUERY,themestup,quindi oggi è apparentemente la giornata delle coccole. e non ho nessuno con cui coccolarmi.
+0,1468589510,Mar Apr 07 02:35:21 PDT 2009,NO_QUERY,laz18,"@erickaaa sono al lavoro, sto congelando anch'io, ho bisogno di un abbraccio di gruppo da te! posso chiamarti stasera tesoro? xxx"
+0,1468589811,Mar Apr 07 02:35:27 PDT 2009,NO_QUERY,VinoGlocal,"@Winetweat: mi dispiace ma seguiteci, pubblicheremo foto e video e a volte anche in inglese"
+0,1468590276,Mar Apr 07 02:35:37 PDT 2009,NO_QUERY,whatevermort,"@quinparker Trovo che, in quest'epoca di internet, questo sia il modo perfetto per esprimere dolore ed empatia per la sofferenza altrui"
+0,1468590417,Mar Apr 07 02:35:40 PDT 2009,NO_QUERY,ConorWinders,ARGH, ho finalmente capito cosa sta uccidendo i giochi 'Inquizitor' sui dispositivi Jailbroken. Circa 30 recensioni a 1 stella troppo tardi però! Soluzione in arrivo
+0,1468590446,Mar Apr 07 02:35:41 PDT 2009,NO_QUERY,Morledge,"Considerando il nuovo nome commerciale, il che significa nuovo logo e sito web. Trovo molto difficile scegliere un nome però. Sono passate 2 settimane #fallimento"
+0,1468590687,Mar Apr 07 02:35:46 PDT 2009,NO_QUERY,manish_khatri,È ora di ufficio.!!
+0,1468590883,Mar Apr 07 02:35:50 PDT 2009,NO_QUERY,jennsbookshelf,@beatccr Non vedo l'ora di leggere quello... sto ancora aspettando la mia copia
+0,1468591226,Mar Apr 07 02:35:57 PDT 2009,NO_QUERY,taniajannoun,pranzando alla mia scrivania mentre lavoro
+0,1468591243,Mar Apr 07 02:35:58 PDT 2009,NO_QUERY,harissamin,vuole un iPhone
+0,1468591556,Mar Apr 07 02:36:04 PDT 2009,NO_QUERY,rheaaa,È APRILE! SMETTI DI NEVICARE!!!
+0,1468591774,Mar Apr 07 02:36:09 PDT 2009,NO_QUERY,GGKintyre,Cercando la motivazione per scrivere alcuni saggi e trovando triste che la mia vita ruoti attorno alla scrittura di saggi
+0,1468592035,Mar Apr 07 02:36:14 PDT 2009,NO_QUERY,zompzwin,Ho sentito che ha smesso di cantare. È un peccato... ? http://blip.fm/~3xath
+0,1468592042,Mar Apr 07 02:36:14 PDT 2009,NO_QUERY,nunoncastors,@theletterj Non potrei essere più d'accordo. La gente continua a rubarmi la palla di elastici
+0,1468592279,Mar Apr 07 02:36:19 PDT 2009,NO_QUERY,Pobbles,Bloccato dentro... povera gente piccola
+0,1468592501,Mar Apr 07 02:36:24 PDT 2009,NO_QUERY,thriftymom,@MizFitOnline Il tuo host è giù? Non ricevo nulla
+0,1468592622,Mar Apr 07 02:36:26 PDT 2009,NO_QUERY,megilicious,@lyn_ grazie tesoro.. non sapevo nemmeno che sarebbe stato lì... peccato che non abbiamo potuto vederlo cantare
+0,1468593185,Mar Apr 07 02:36:39 PDT 2009,NO_QUERY,paulrjmellors,@myrtti ahi
+0,1468593281,Mar Apr 07 02:36:41 PDT 2009,NO_QUERY,steeley,"Sono tutto raffreddato e poi caldo e freddo, stanco e intasato. Povero me"
+0,1468593463,Mar Apr 07 02:36:45 PDT 2009,NO_QUERY,AmyGrindhouse,"Solo un avvertimento. Il sito è strano, quindi probabilmente posterò in ritardo oggi. Maledetti problemi tecnici."
+0,1468593660,Mar Apr 07 02:36:50 PDT 2009,NO_QUERY,maddyks,@skinnylatte è un ottimo articolo ma piuttosto triste. Siamo il vertice più triste dell'evoluzione
+0,1468593773,Mar Apr 07 02:36:52 PDT 2009,NO_QUERY,ThisIsOurs_info,Addio server di test Jive - mi dispiace tanto dovervi spegnere
+0,1468594081,Mar Apr 07 02:36:59 PDT 2009,NO_QUERY,RockChick182,Sono sveglia, Amy viene a casa oggi quindi devo pulire la mia stanza
+0,1468594652,Mar Apr 07 02:37:11 PDT 2009,NO_QUERY,galopp,finendo la dichiarazione dei redditi... invece di fare musica o godersi il sole...
+0,1468594996,Mar Apr 07 02:37:18 PDT 2009,NO_QUERY,kao_ami,essere offline
+0,1468595084,Mar Apr 07 02:37:20 PDT 2009,NO_QUERY,peta_davies,sperando che il mio nuovo gattino stia bene - dato che non mangia né beve - spero sia solo lo stress di un nuovo posto
+0,1468595095,Mar Apr 07 02:37:20 PDT 2009,NO_QUERY,cwkong2,@danielhcwong Taylor 814ce --> #&$(#&$(!(@#$(!@#*$(#! (dolce madre di #@&$(!@#($*(!@#*$(!@#&$(!@#$&!(@#!#@($... la mia vita è solo 2900
+0,1468595182,Mar Apr 07 02:37:22 PDT 2009,NO_QUERY,lyditriz,@elltotheice povero ragazzo, dannazione a tutte quelle persone che vogliono tagliare l'erba ï¿½__ï¿½ ahaha! 15 giorni&lt;3
+0,1468595283,Mar Apr 07 02:37:25 PDT 2009,NO_QUERY,rotekatze,"Vorrei non aver bevuto caffè tutto il giorno, ho bisogno di dormire, devo dormire, non riesco a dormire"
+0,1468595297,Mar Apr 07 02:37:25 PDT 2009,NO_QUERY,Buzzyboo,"mi sento ancora peggio... raffreddore, tosse, mal di gola... tutto quanto"
+0,1468595850,Mar Apr 07 02:37:38 PDT 2009,NO_QUERY,awtribute,"finalmente ho il logo vintage della grandezza qui... un po' difficile da fare ora senza un computer a casa... vabbè, un giorno"
+0,1468596073,Mar Apr 07 02:37:43 PDT 2009,NO_QUERY,sarahroters,mi sento strana oggi. felice e triste allo stesso tempo. e mi mancano i miei cari dall'Italia. Vi voglio bene &lt;3
+0,1468596208,Mar Apr 07 02:37:47 PDT 2009,NO_QUERY,xcool,"argh, ecco che i miei piani per venerdì vanno in fumo..."
+0,1468596693,Mar Apr 07 02:37:57 PDT 2009,NO_QUERY,Katy_Louise,@heidimontag : non lo so, sono nel Regno Unito quindi non è ancora uscito qui, sono così gelosa
+0,1468596885,Mar Apr 07 02:38:01 PDT 2009,NO_QUERY,iNickyy,ho ricevuto l'invito formale. Cosa farò per il mio appuntamento? Avrei dovuto dire di mettere "Nick & Ospite".
+0,1468596927,Mar Apr 07 02:38:03 PDT 2009,NO_QUERY,Molecat84,e ora non sono sicuro di voler associare a un prodotto così violento, potrei ripensare al mio nome utente
+0,1468596929,Mar Apr 07 02:38:02 PDT 2009,NO_QUERY,lexaah,@markhardy1974 lo è ma sto ancora aspettando il mio passaggio #itm
+0,1468597269,Mar Apr 07 02:38:09 PDT 2009,NO_QUERY,jesscocaine,vorrei che il sole splendesse di più. ho un bel vestito giallo da indossare. FORZA SOLE. ESCI E GIOCA. stupida Inghilterra.
+0,1468598037,Mar Apr 07 02:38:26 PDT 2009,NO_QUERY,JaceChannel5,"beh, il mio problema di odore ai piedi è decisamente tornato! hmph."
+0,1468598198,Mar Apr 07 02:38:31 PDT 2009,NO_QUERY,theguru42,Lo svantaggio di questo è che ogni foto che scatto con il mio telefono viene trasmessa e inviata con il nome del file come testo. #AutomazioneACosto
+0,1468598341,Mar Apr 07 02:38:34 PDT 2009,NO_QUERY,kittencaboodle,"@petemc sono orribili, mi perseguitano"
+0,1468598385,Mar Apr 07 02:38:34 PDT 2009,NO_QUERY,Mike_Laverick,non ami i documenti XML aperti corrotti di Microsoft.
+0,1468598459,Mar Apr 07 02:38:36 PDT 2009,NO_QUERY,Simonerose,ho fottute stecche tibiali!!!! sono in dolore.....DROGHE PER FAVORE......non mi ero mai resa conto che potessero essere così dolorose
+0,1468598518,Mar Apr 07 02:38:37 PDT 2009,NO_QUERY,clareedwards,@taratomes Ho fatto domanda per andarci, ma mio padre non mi avrebbe portato a Manchester per le audizioni
+0,1468598811,Mar Apr 07 02:38:44 PDT 2009,NO_QUERY,SterlingHug,Non ho idea di come usare Twitter. Nessuno vuole seguirmi perché sono una persona insignificante.
+0,1468598817,Mar Apr 07 02:38:44 PDT 2009,NO_QUERY,djodcouk,@helenthornber Non lo so ma prendevo frutta e caramelle gommose all'ufficio postale... non abbiamo mai avuto le caramelle alla mela però
+0,1468598987,Mar Apr 07 02:38:48 PDT 2009,NO_QUERY,RockChick182,La mia migliore amica Amy viene a casa oggi, quindi devo pulire la casa e devo trovare il cavo dell'amplificatore
+0,1468599110,Mar Apr 07 02:38:50 PDT 2009,NO_QUERY,Aashrey,dov'è il mio telefono e il buon cibo? aaaaaaaaah
+0,1468599213,Mar Apr 07 02:38:53 PDT 2009,NO_QUERY,PhantomV48,"Il sito di Muppet Whatnot Workshop è temporaneamente giù, a quanto pare completamente esaurito ""Stiamo lavorando sodo per farlo tornare al più presto"" Sbrigatevi, gente."
+0,1468599415,Mar Apr 07 02:38:58 PDT 2009,NO_QUERY,ednaiscool51,ednaiscool51 è di nuovo online, evviva! ma tutti i miei video sono spariti
+0,1468599754,Mar Apr 07 02:39:06 PDT 2009,NO_QUERY,achmadsirman,"@James_yeah gah, povero illazilla e peccato per il bastardino, ma buona fortuna questa volta!"
+0,1468599846,Mar Apr 07 02:39:07 PDT 2009,NO_QUERY,DanielMiller89,@iB3nji Sì, lo so, ma non era nella lista dei pacchetti dello spettacolo sull'articolo l'altro giorno. Ho sentito che trasmetteranno dallo spettacolo giovedì.
+0,1468599980,Mar Apr 07 02:39:11 PDT 2009,NO_QUERY,Meryl_F,@alexfoster re gatto. Probabilmente ha un effetto incredibile anche sulle spese veterinarie? Fai attenzione ai cambiamenti nel carattere del gatto rimasto!
+0,1468600060,Mar Apr 07 02:39:12 PDT 2009,NO_QUERY,Lingkan_bella,HO BISOGNO DI TTTTTEEEEEEE..... http://plurk.com/p/n0vpg
+0,1468600221,Mar Apr 07 02:39:15 PDT 2009,NO_QUERY,EMILYstack,"@sonnyjoeflangan dannazione, l'ho perso, quali 3 canzoni? xx"
+0,1468600337,Mar Apr 07 02:39:18 PDT 2009,NO_QUERY,izzy4u,"@CatQ pensavo tanto a te, famiglia e amici. Sono contenta che tu stia bene! Ma è un giorno nero per l'Italia, con tutte quelle persone uccise."
+0,1468600466,Mar Apr 07 02:39:21 PDT 2009,NO_QUERY,TatiLav,Ho appena passato un bel momento... questo se dimentico il litigio sulla via del ritorno...
+0,1468600978,Mar Apr 07 02:39:32 PDT 2009,NO_QUERY,DramaQueenx,Tempo orribile
+0,1468601090,Mar Apr 07 02:39:34 PDT 2009,NO_QUERY,learningforevil,@DavidBlue qualcuno me l'ha rovinato la settimana scorsa
+0,1468601271,Mar Apr 07 02:39:39 PDT 2009,NO_QUERY,wyndwitch,@nicsknots Come va?
+0,1468601402,Mar Apr 07 02:39:43 PDT 2009,NO_QUERY,ammaryasir,"non riesco a mangiare, bere o respirare a causa di una brutta infezione alla gola"
+0,1468602199,Mar Apr 07 02:40:02 PDT 2009,NO_QUERY,ammaryasir,"non riesco a mangiare, bere o respirare correttamente a causa di una brutta infezione alla gola"
+0,1468602417,Mar Apr 07 02:40:04 PDT 2009,NO_QUERY,AliceMary92,Distrutta
+0,1468602461,Mar Apr 07 02:40:05 PDT 2009,NO_QUERY,pinguprue,la nonna è appena morta
+0,1468602936,Mar Apr 07 02:40:14 PDT 2009,NO_QUERY,Dionza,Ritardo fino alle 1500
+0,1468602988,Mar Apr 07 02:40:15 PDT 2009,NO_QUERY,carrotmadman6,L'università fa schifo! Devo lasciare casa alle 12:00 per frequentare una lezione dalle 14:30 alle 16:30. E lavori in corso ovunque - MT sta installando cavi in fibra ottica.
+0,1468603079,Mar Apr 07 02:40:18 PDT 2009,NO_QUERY,WannaBeKoola,"Ha iniziato il suo allenamento di 12 settimane, sarà dura con così tanti compleanni, attualmente al lavoro http://twitpic.com/2y81k"
+0,1468603209,Mar Apr 07 02:40:20 PDT 2009,NO_QUERY,Tittch,È così sconvolgente. Ami è in agonia e il veterinario non può vederla prima delle 18. Povera piccola
+0,1468603408,Mar Apr 07 02:40:24 PDT 2009,NO_QUERY,kassy4,"@matthewknight non lo so...! Riesco a fare il ping al sito, ma non si carica affatto per me... Sto cercando di contattare dreamhost"
+0,1468603974,Mar Apr 07 02:40:36 PDT 2009,NO_QUERY,megastar85,nessuno mi risponde mai
+0,1468604390,Mar Apr 07 02:40:46 PDT 2009,NO_QUERY,appleplex,"@edbehrens 'Grazie per la buona fortuna! Ahimè, non ero abbastanza bravo, non voglio davvero spiegare ma grazie di tutto, vi voglio bene a tutti'"
+0,1468604795,Mar Apr 07 02:40:54 PDT 2009,NO_QUERY,Barbieash,non riesco a smettere di tossire, tanto per dormire
+0,1468604810,Mar Apr 07 02:40:55 PDT 2009,NO_QUERY,paperclipface,Capelli bagnati negli occhi.
+0,1468605010,Mar Apr 07 02:40:59 PDT 2009,NO_QUERY,nadiaparry,"@kevatkinson Mio fratello e mia sorella, ma molto giovani, la mamma lavora oggi quindi ho pensato di aiutare... Non ho sole"
+0,1468605370,Mar Apr 07 02:41:07 PDT 2009,NO_QUERY,RealRicola,"bevendo un caffè e controllando i miei twitter, facebook e altri social network ..... sembra che stia diventando un lavoro a tempo pieno tenere il passo"
+0,1468605376,Mar Apr 07 02:41:07 PDT 2009,NO_QUERY,Nicolaarthur,riesce a parlare con il mio ragazzo fino alle 3 circa! così felice! ma poi non può parlargli fino a maggio! questo potrebbe far male un po'!
+0,1468606175,Mar Apr 07 02:41:25 PDT 2009,NO_QUERY,matiasjofre,@princessbuddha ho lo stesso problema... non guido più!
+0,1468606710,Mar Apr 07 02:41:37 PDT 2009,NO_QUERY,Bellalou27,ancora sveglia... triste, ho perso follower
+0,1468606953,Mar Apr 07 02:41:42 PDT 2009,NO_QUERY,DrPotatohead,un giorno triste, piango per la mia fantastica macchina http://twitpic.com/2y82e
+0,1468607254,Mar Apr 07 02:41:49 PDT 2009,NO_QUERY,jwilger,"OK, credo di aver finalmente finito di lavorare per la giornata (di ieri). Ora una birra e un po' di TV prima di andare a dormire. Si ricomincia verso le 9 del mattino."
+0,1468607344,Mar Apr 07 02:41:51 PDT 2009,NO_QUERY,sareyk,lavorando per la vita..
+0,1468607647,Mar Apr 07 02:41:59 PDT 2009,NO_QUERY,swarnaparni,gli esami si avvicinano.........mi sento davvero senza speranza..
+0,1468607733,Mar Apr 07 02:42:01 PDT 2009,NO_QUERY,ipodque,Creepy Outdoor sulla pista: Alli è ora in Portogallo... Non sembra così buono per perdere peso, non è salutare!
+0,1468608026,Mar Apr 07 02:42:07 PDT 2009,NO_QUERY,t0xic_honey,"@francesdath non male, in transizione, visitata da molti zingari queer in giro per il mondo in questo momento... ma tu manchi"
+0,1468608080,Mar Apr 07 02:42:08 PDT 2009,NO_QUERY,clevrijx,carico di raffreddore, molto divertente!!!
+0,1468608214,Mar Apr 07 02:42:11 PDT 2009,NO_QUERY,Dandreeg,sveglio presto. mi fa male lo stomaco
+0,1468608610,Mar Apr 07 02:42:19 PDT 2009,NO_QUERY,HeyGitta,ha mal di testa... non va via e non voglio esagerare con il Panadol....lol....seriamente però fa male
+0,1468609133,Mar Apr 07 02:42:31 PDT 2009,NO_QUERY,DaaBuddy,http://twitter.com/freddybust/status/1463411617 - esatto!
+0,1468609298,Mar Apr 07 02:42:35 PDT 2009,NO_QUERY,AmyGrindhouse,"Forse non ero chiara... Oggi ho intenzione di postare sul mio sito web più tardi del solito, a causa di problemi tecnici"
+0,1468609303,Mar Apr 07 02:42:35 PDT 2009,NO_QUERY,Djalfy,a qualcun altro mancano le chat room? A me sì, ma non riesco a trovarne una in cui mi sento a mio agio, suggerimenti per favore?
+0,1468609315,Mar Apr 07 02:42:35 PDT 2009,NO_QUERY,chloroform_tea,"Vah. La temuta malattia colpisce. Ho un disperato bisogno di tè, cloroformio o altro. Ahimè, vado da ASDA per la pizza, niente tempo per il tè"
+01468609400,Mar Apr 07 02:42:37 PDT 2009,NO_QUERY,anonomi,L'uomo di Twitter del Leeds Festival ha mentito. Non c'è nessun aggiornamento.
+0,1468609575,Mar Apr 07 02:42:41 PDT 2009,NO_QUERY,darkopevec,"vado, vado, e sono andato. Povera Moosie si è addormentata in classe http://twitpic.com/2y82y"
+0,1468609669,Mar Apr 07 02:42:44 PDT 2009,NO_QUERY,chhlllooooeeeee,è davvero stanco
+0,1468610045,Mar Apr 07 02:42:53 PDT 2009,NO_QUERY,melinoma,"scambiando canzoni via email con Carrie, dannazione al Tasman, DANNALO ALL'INFERNO voglio suonare"
+0,1468610083,Mar Apr 07 02:42:54 PDT 2009,NO_QUERY,NikkolaD,"dannazione, non riesco ancora a trovare una foto di dimensioni decenti"
+0,1468610356,Mar Apr 07 02:42:59 PDT 2009,NO_QUERY,jeremy_ellis,"@Anjeebaby Sto bene se le cose sono impegnative, diventa difficile solo nei momenti più tranquilli"
+0,1468610527,Mar Apr 07 02:43:03 PDT 2009,NO_QUERY,Shelistar,"Saggio finito, 3.605 parole, molto soddisfatto di me stesso ma temendo il ritorno al lavoro di progetto"
+0,1468610803,Mar Apr 07 02:43:09 PDT 2009,NO_QUERY,Talk_ShowHost,"@VioletsCRUK Sì, al largo di Aberdeen, sulla piattaforma Miller, quella che l'elicottero ha lasciato prima di precipitare l'altro giorno"
+0,1468610982,Mar Apr 07 02:43:13 PDT 2009,NO_QUERY,VictoriaSoguero,sono così giù
+0,1468611228,Mar Apr 07 02:43:18 PDT 2009,NO_QUERY,A1nz,"Mi sento ancora uno schifo, anche se stavo meglio ieri, ma ho realizzato di non esserlo quando mi sono svegliato alle 5 del mattino sentendomi male"
+0,1468611366,Mar Apr 07 02:43:21 PDT 2009,NO_QUERY,cajnel,Ho ancora molto lavoro da recuperare!
+0,1468611643,Mar Apr 07 02:43:27 PDT 2009,NO_QUERY,Labab,... ho perso il concerto
+0,1468611785,Mar Apr 07 02:43:31 PDT 2009,NO_QUERY,KneeHighBootFan,Conteggio di Khb basso oggi nonostante il tempo che cambia.
+0,1468612362,Mar Apr 07 02:43:43 PDT 2009,NO_QUERY,monblain,"@dale__wood Adoro il caffè universitario????? SCOMMETTO che non indovinerai questo. ILPC oh ps università domani, ti vengo a prendere alle 12:52! PS compito di 1000 parole! ARG"
+0,1468612843,Mar Apr 07 02:43:54 PDT 2009,NO_QUERY,pr3judice,ora ho difficoltà a digerire la delusione
+0,1468612855,Mar Apr 07 02:43:54 PDT 2009,NO_QUERY,kmas0407,PRONTA PER VENERDÌ al TED!! Forza Braves! E faccio scorta di pastiglie per la tosse Ricola e DayQuil perché ho il raffreddore a causa del cambiamento climatico costante
+0,1468613026,Mar Apr 07 02:43:58 PDT 2009,NO_QUERY,tankertuig,:S geen How I Met Your Mother vandaag
+0,1468613355,Mar Apr 07 02:44:05 PDT 2009,NO_QUERY,MissNina,Niente South Park per me
+0,1468614764,Mar Apr 07 02:44:37 PDT 2009,NO_QUERY,henna_,"evviva, emicrania per concludere il viaggio a Berlino"
+0,1468617662,Mar Apr 07 02:45:37 PDT 2009,NO_QUERY,emotionlessgal,@SheriTingle Molto impegnato, molti progetti da completare.
+0,1468617783,Mar Apr 07 02:45:39 PDT 2009,NO_QUERY,Deligal,"tanto per il mio arrosto stasera, ancora congelato."
+0,1468617899,Mar Apr 07 02:45:41 PDT 2009,NO_QUERY,jaredgunter,Sveglio dalle 3:00. Sarà una giornata luuuunga.
+0,1468617912,Mar Apr 07 02:45:42 PDT 2009,NO_QUERY,SophieClaeys,"sto sanguinando!, mi sono rasata le gambe e ora sto sanguinando. ahah, sono una perdente xp"
+0,1468618309,Mar Apr 07 02:45:51 PDT 2009,NO_QUERY,The_Kingfisher,Mi ha fatto piangere Jeremy Kyle!! Vado dal medico adesso, odio i medici, sono così spaventosi! Arghhhh!
+0,1468618608,Mar Apr 07 02:45:58 PDT 2009,NO_QUERY,lovelylisaj,Ho ucciso il thread Eggnog su PJ con la mia battuta stupida
+0,1468618787,Mar Apr 07 02:46:02 PDT 2009,NO_QUERY,lilmissvik,"@tommcfly ehi, nessuna possibilità di aggiungere Brighton o Eastbourne al tour UCAP? Sono delusa di perdermelo questa volta, vi voglio bene ragazzi!"
+0,1468619130,Mar Apr 07 02:46:08 PDT 2009,NO_QUERY,MrSocial,Sono davvero stanco ma non riesco a dormire
+0,1468619422,Mar Apr 07 02:46:15 PDT 2009,NO_QUERY,MeDearDarling,"@saturngirl ha ha ha, *cappello tolto*. Ok, hai ragione. Campeggio ancora nei Cotswolds per me. ;)"
+0,1468619872,Mar Apr 07 02:46:24 PDT 2009,NO_QUERY,NikkolaD,"lol, l'ho fatto, poi sono stato stupido e ho pensato che kb fosse uguale a k, quindi non funziona ancora. dubito che ne troverò mai uno"
+0,1468619985,Mar Apr 07 02:46:26 PDT 2009,NO_QUERY,DorkieeAmber,@xoVince pssht! mi manchi! non mi rispondi
+0,1468620198,Mar Apr 07 02:46:31 PDT 2009,NO_QUERY,Niczy,@DonnieWahlberg DONNIE!! quando torni nel Regno Unito? È passato troppo tempo X
+0,1468620322,Mar Apr 07 02:46:35 PDT 2009,NO_QUERY,LionelnShana,Sono andato dal dentista oggi... totalmente come ultima risorsa... totalmente al verde adesso anch'io!! Dannazione l'industria dentale ha bisogno di politiche di concorrenza
+0,1468620341,Mar Apr 07 02:46:34 PDT 2009,NO_QUERY,khanh_coltech,thï¿½m m?t l?n nï¿½i d?i
+0,1468620878,Mar Apr 07 02:46:46 PDT 2009,NO_QUERY,vickibabes91,Vado a lavorare. Mi mancherà il bel tempo. x
+0,1468620940,Mar Apr 07 02:46:47 PDT 2009,NO_QUERY,michaelmknight,"@MANDY_EMMERSON Peccato, spero tu stia bene!"
+0,1468620963,Mar Apr 07 02:46:48 PDT 2009,NO_QUERY,tantrixie,http://twitpic.com/2y867 - Mi manca questo
+0,1468621312,Mar Apr 07 02:46:56 PDT 2009,NO_QUERY,LynnaeG,"Wow, è troppo presto per essere svegli. Molte cose da fare però, e post sul software alle 8:30 quindi devo effettivamente essere al lavoro in orario. Che noia..."
+0,1468621368,Mar Apr 07 02:46:57 PDT 2009,NO_QUERY,amberluvsnkotb,Mi manca il mio figlio.. è andato a casa con la mia mostruosa suocera ieri sera, non vedo l'ora di riaverlo questo pomeriggio dopo il lavoro!
+0,1468621585,Mar Apr 07 02:47:01 PDT 2009,NO_QUERY,TarekSh,@iamloz_JsPR ahi
+0,1468621613,Mar Apr 07 02:47:02 PDT 2009,NO_QUERY,6277,"@Mirror_Kiss no, non ho soldi, sono molto arrabbiato anch'io"
+0,1468621670,Mar Apr 07 02:47:04 PDT 2009,NO_QUERY,erickaaa,"@laz18 Sì, non potevo rispondere alla tua chiamata al lavoro questo pomeriggio, tesoro. Le mie pause di solito sono all'una, quindi chiama allora ahah, ho così tanto bisogno di credito"
+0,1468621706,Mar Apr 07 02:47:04 PDT 2009,NO_QUERY,cfriele,"Ugh, non riesco a dormire perché non mi sento molto bene."
+0,1468622048,Mar Apr 07 02:47:11 PDT 2009,NO_QUERY,FrumiousMe,@foilly oh no! che peccato, dovrai trovarli la prossima volta che Tim passa. o organizzare una convention di Sydney.
+0,1468622089,Mar Apr 07 02:47:12 PDT 2009,NO_QUERY,BertaWooster,Oh no... Kutner è morto (guardando House)
+0,1468622500,Mar Apr 07 02:47:22 PDT 2009,NO_QUERY,_n2,che noia.. ancora senza internet a casa.
+0,1468622538,Mar Apr 07 02:47:23 PDT 2009,NO_QUERY,B00G1T,Sono stato mandato nell'angolo dei cattivi ragazzi al lavoro http://twitpic.com/2y86s
+0,1468622564,Mar Apr 07 02:47:23 PDT 2009,NO_QUERY,MattStannells,"@triplejsr il nuovo singolo di Eminem, ""we made you"", ha zero ascolti sul myspace di aftermath, voglio sentirlo così tanto"
+0,1468622718,Mar Apr 07 02:47:26 PDT 2009,NO_QUERY,knibbcess,mi chiedo come funzioni questo sito
+0,1468622735,Mar Apr 07 02:47:27 PDT 2009,NO_QUERY,marktheescape,Finalmente a casa dal lavoro
+0,1468622896,Mar Apr 07 02:47:31 PDT 2009,NO_QUERY,apieceofherlife,"non vedo l'ora che arrivi Pasqua, ma poi, dopo, sarà ora di studiare"
+0,1468623062,Mar Apr 07 02:47:34 PDT 2009,NO_QUERY,PaulaCoMayo,"di nuovo al lavoro dopo un ottimo weekend, i miei fratelli sono partiti e tornati in Inghilterra con i miei splendidi nipoti, mi mancano"
+0,1468623158,Mar Apr 07 02:47:36 PDT 2009,NO_QUERY,LozzieCousins,@nikrosser Non credo esista un buon ictus. Aspetterò tue notizie. Adoro quel gattino. L xxx
+0,1468623274,Mar Apr 07 02:47:38 PDT 2009,NO_QUERY,Vikx993,argh non riesco a smettere di sbadigliare
+0,1468623578,Mar Apr 07 02:47:45 PDT 2009,NO_QUERY,tiedyeina,"se hai un computer che non fa molto (o un core della CPU che non fa molto, se sei un tecnico), mettiti in contatto? Ho bisogno di potenza di elaborazione"
+0,1468623792,Mar Apr 07 02:47:50 PDT 2009,NO_QUERY,BekaMurph,Il mio telefono è ROTTO. Peccato che avrei potuto inviarti tweet ECCITANTI oggi su come stanno andando le elezioni in città. Giorno del giudice elettorale!
+0,1468623914,Mar Apr 07 02:47:53 PDT 2009,NO_QUERY,frouse,16 km in bici. Sono tutta sudata. La maratona REM continua.
+0,1468623997,Mar Apr 07 02:47:55 PDT 2009,NO_QUERY,Narielf,"sto cercando di fare una zuppa di pollo come quella di mia madre,... ma senza ricetta.. sarà interessante... e non trovo la matzah."
+0,1468624271,Mar Apr 07 02:48:02 PDT 2009,NO_QUERY,BubsyMunster13,ha un forte mal di testa
+0,1468624519,Mar Apr 07 02:48:05 PDT 2009,NO_QUERY,CiaraTrixie,vuole che ""qualcuno"" venga qui
+0,1468624571,Mar Apr 07 02:48:07 PDT 2009,NO_QUERY,Veeee,@itspink COSA? I BOYZONE SI RIFORMANO??? Non sono mai a conoscenza di nulla
+0,1468624722,Mar Apr 07 02:48:09 PDT 2009,NO_QUERY,cloverdash,"@Sparkly_Devil1 *abbracci* Sto cercando davvero di concentrarmi sul bel sogno invece. Mi dispiace che tu ne abbia avuto uno brutto anche tu, tesoro"
+0,1468624921,Mar Apr 07 02:48:13 PDT 2009,NO_QUERY,TferThomas,"@TheEngTeacher dannazione, sto conoscendo molto bene questo angolo"
+0,1468625137,Mar Apr 07 02:48:18 PDT 2009,NO_QUERY,luckyduh,"Ugh, che spreco di 3 ore..."
+0,1468625160,Mar Apr 07 02:48:19 PDT 2009,NO_QUERY,penniless_poet,@charltonbrooker Hai la mia simpatia - devo farmi fare una radiografia alla schiena
+0,1468625240,Mar Apr 07 02:48:21 PDT 2009,NO_QUERY,kreativlink,È ora di pranzo. Ho tanta voglia di involtini primavera.... peccato che non abbiamo un cinese qui vicino che consegna
+0,1468625371,Mar Apr 07 02:48:24 PDT 2009,NO_QUERY,danacranston,Non so come tornerò a Miami. È come se a nessuno importasse...
+0,1468625547,Mar Apr 07 02:48:27 PDT 2009,NO_QUERY,m3kx,"@Kal_Penn Ok, beh credo di aver appena ricevuto uno spoiler per questo episodio, non l'ho ancora visto, sono nel Regno Unito!! Deluso adesso."
+0,1468625847,Mar Apr 07 02:48:34 PDT 2009,NO_QUERY,TferThomas,sicuramente lo è.... questa è la prima volta che ci provo
+0,1468626067,Mar Apr 07 02:48:39 PDT 2009,NO_QUERY,Kittysaysrelax,Ho mal di testa che mi fa stare male
+0,1468626256,Mar Apr 07 02:48:43 PDT 2009,NO_QUERY,fgiunchedi,@alessandrod tristezza ma per favore continua ad aggiornare *abbraccio*
+0,1468626263,Mar Apr 07 02:48:43 PDT 2009,NO_QUERY,MyAppleStuff,@loris_sl buongiorno!!!! come va l'Italia oggi??? Deprimente, immagino!!! Che brutta notizia
+0,1468626371,Mar Apr 07 02:48:46 PDT 2009,NO_QUERY,mickyie,"@melaniengzuer ahaha! no! non più. torno due volte al mese. i biglietti dell'autobus sono già troppo costosi"
+0,1468626778,Mar Apr 07 02:48:56 PDT 2009,NO_QUERY,JoJo_84,Voglio davvero vedere Kasabian all'Eden Project il 4 luglio! Ho solo bisogno di qualcuno con cui andare
+0,1468626843,Mar Apr 07 02:48:57 PDT 2009,NO_QUERY,ceedee75,"Buongiorno a tutti! È una giornata grigia in Olanda. Forza primavera, puoi farcela!!!"
+0,1468626858,Mar Apr 07 02:48:57 PDT 2009,NO_QUERY,Robguy,Triste che il cambio dell'ora significhi che è buio quando torniamo a casa.
+0,1468627125,Mar Apr 07 02:49:04 PDT 2009,NO_QUERY,microlove,@sneffielynn Vorrei sapere cosa succede con TB. Mi sta facendo impazzire.
+0,1468627571,Mar Apr 07 02:49:13 PDT 2009,NO_QUERY,alesrosina,dannazione! Ho perso la scadenza per la candidatura a #gsoc
+0,1468627583,Mar Apr 07 02:49:13 PDT 2009,NO_QUERY,rachaelsmart,odia la revisione
+0,1468627852,Mar Apr 07 02:49:19 PDT 2009,NO_QUERY,Ingenue_Em,@khensu83 Mi sento sempre così anch'io, buona giornata però xx
+0,1468627911,Mar Apr 07 02:49:21 PDT 2009,NO_QUERY,tantrixie,http://twitpic.com/2y887 - Mi manca questo!
+0,1468628161,Mar Apr 07 02:49:26 PDT 2009,NO_QUERY,hcyee,"Oggi molto impegnato, ho partecipato a 2 appuntamenti. Beh, domani sarà un'altra giornata impegnativa"
+0,1468628219,Mar Apr 07 02:49:28 PDT 2009,NO_QUERY,arichter86,non ho ancora dormito e devo essere al lavoro tra 40 minuti. Che noia
+0,1468628251,Mar Apr 07 02:49:28 PDT 2009,NO_QUERY,sfuge,È bloccato nella storia
+0,1468628642,Mar Apr 07 02:49:37 PDT 2009,NO_QUERY,kenmcguire,@ClaireBoyles Lo pensavo anch'io
+0,1468629079,Mar Apr 07 02:49:45 PDT 2009,NO_QUERY,mizsprieta,Vado a lavorare!!!
+0,1468629131,Mar Apr 07 02:49:46 PDT 2009,NO_QUERY,moximillian,"La terra di nessuno - non completamente malato, ma sicuramente nemmeno sano"
+0,1468629222,Mar Apr 07 02:49:49 PDT 2009,NO_QUERY,tigertwo,Soffro ancora di mal di testa che mi accompagna da ieri pomeriggio. Mi sento come se avessi la testa in una morsa. Non piacevole.
+0,1468629378,Mar Apr 07 02:49:53 PDT 2009,NO_QUERY,yowiepower,Lavorando all'università.. Red Bull e un pacchetto di uva sultanina per cena
+0,1468629992,Mar Apr 07 02:50:05 PDT 2009,NO_QUERY,Mozzette,@CSIMiamiJenny Lo so, mi sentivo così dopo aver fatto loro dei regali e non averli apprezzati. Horatio è il vero uomo LOL
+0,1468630147,Mar Apr 07 02:50:08 PDT 2009,NO_QUERY,TurtleTours,@MissyKesson non ti trovo lì
+0,1468630176,Mar Apr 07 02:50:09 PDT 2009,NO_QUERY,velvetella,@fireflies_uk Twitter sta davvero facendo le bizze! Apparecchio... mi ricorda il brutto riflesso del vomito
+0,1468630302,Mar Apr 07 02:50:11 PDT 2009,NO_QUERY,Mmmbaileys,@carli_chick Non riesco a vedere la foto x
+0,1468630321,Mar Apr 07 02:50:12 PDT 2009,NO_QUERY,DebbiePolk_x,Sull'autobus che va al lavoro! Che noia!
+0,1468630391,Mar Apr 07 02:50:14 PDT 2009,NO_QUERY,kapsarovb,Non riesco a twittare, sono sommerso dal lavoro
+0,1468630700,Mar Apr 07 02:50:19 PDT 2009,NO_QUERY,methel,"@robparsons - troppo difficile??? chi sono queste persone?? senza dubbio quelle che vedono gli africani solo come affamati e indifesi - grrrrrr"
+0,1468630730,Mar Apr 07 02:50:20 PDT 2009,NO_QUERY,Pd_91,Seduto al lavoro
+0,1468630777,Mar Apr 07 02:50:22 PDT 2009,NO_QUERY,jeremy_ellis,"@nickynocky Pago poco più di cento, per me e occasionalmente i bambini in una casa, ma non a contatore. La tua sembra alta allora"
+0,1468631203,Mar Apr 07 02:50:30 PDT 2009,NO_QUERY,SLotH13,"@abhian ehi lalloo.. io e Dake siamo andati allo spettacolo delle 20:00 a CP.. Avresti potuto farcela. non importa, ci riproveremo il prossimo fine settimana"
+0,1468631235,Mar Apr 07 02:50:31 PDT 2009,NO_QUERY,illusions214,Sveglia con la mia bambina malata che è appena entrata nella mia stanza e ha vomitato sul mio letto.
+0,1468631241,Mar Apr 07 02:50:31 PDT 2009,NO_QUERY,miavida,l'insonnia ha avuto la meglio su di me di nuovo... ohhh così stanca e non riesco a trovare il sonno
+0,1468631297,Mar Apr 07 02:50:32 PDT 2009,NO_QUERY,martymcfly_x,LOL cosa Anna? Scherzo? Voglio tanto incontrarti durante le vacanze, uomo haha - Mi manchi così tanto
+0,1468631882,Mar Apr 07 02:50:45 PDT 2009,NO_QUERY,DebbieJay,Non posso proprio permettermi un iPhone
+0,1468632096,Mar Apr 07 02:50:49 PDT 2009,NO_QUERY,kiwi_blockhead,"evviva, posso inviare messaggi a Twitter ma non riceverli sul mio cellulare perché sono in Nuova Zelanda"
+0,1468632264,Mar Apr 07 02:50:52 PDT 2009,NO_QUERY,Verax3,dormendo da un amico oggi x3 cosa ti succede!? non capisco..
+0,1468632266,Mar Apr 07 02:50:52 PDT 2009,NO_QUERY,fleurdeguerre,@Retrochick_uk oh probabilmente PMT ;) e uomini sconsiderati un po' troppo
+0,1468633119,Mar Apr 07 02:51:12 PDT 2009,NO_QUERY,ralpharama,"Trascodificare un file .wmv da 100MB a un file .flv da 100MB senza perdita di qualità - possibile o no? Qualcuno lo sa? Tutto quello che provo è terribile"
+0,1468633263,Mar Apr 07 02:51:15 PDT 2009,NO_QUERY,ClaireBoyles,@kenmcguire mi dispiace di essere stata io a confermare le tue peggiori paure
+0,1468633491,Mar Apr 07 02:51:19 PDT 2009,NO_QUERY,PartyPlanPat,"@divapromotions Sono d'accordo, le carte di SendOut sono fantastiche! Ne ho appena inviata una oggi a un caro amico che ho dovuto lasciare andare"
+0,1468633597,Mar Apr 07 02:51:21 PDT 2009,NO_QUERY,tychoquad,Quella è una connessione internet veloce. Probabilmente saremo bloccati con quel 10% però http://digg.com/d1o8Kd
+0,1468633773,Mar Apr 07 02:51:25 PDT 2009,NO_QUERY,jimmydove,"È una nuova mattina, ho tirato indietro le tende, il sole splende, gli uccelli cinguettano e io sono bloccato dentro a lavorare!"
+0,1468633994,Mar Apr 07 02:51:31 PDT 2009,NO_QUERY,ashley_sanders,"@joypalmer Mi sveglio alle 2 del mattino e penso, ah sì, sono di nuovo i topi che corrono nel soffitto"
+0,1468634153,Mar Apr 07 02:51:34 PDT 2009,NO_QUERY,LisaSJo,"A scuola adesso. Ho appena visto This is England, e mi dispiace dire che non mi è piaciuto molto. Forse perché l'ho visto qui?"
+0,1468634189,Mar Apr 07 02:51:35 PDT 2009,NO_QUERY,jimbonius,"@kangaroogav Predica, fratello, Special K, panino al prosciutto e acqua, niente cena"
+0,1468634552,Mar Apr 07 02:51:42 PDT 2009,NO_QUERY,ektagrover,"le riunioni non sono sempre noiose, ma mi chiedo perché sono sempre assonnata verso la fine"
+0,1468635091,Mar Apr 07 02:51:55 PDT 2009,NO_QUERY,nomad_chicken,Sorpreso di quanto poco mi manchi avere una casa o una macchina o davvero qualsiasi altro mio bene terreno... ma mi manca il mio cane.
+0,1468635266,Mar Apr 07 02:51:59 PDT 2009,NO_QUERY,Treesiepops,"@chrisgedrim è tutto, abbiamo finito"
+0,1468635362,Mar Apr 07 02:52:01 PDT 2009,NO_QUERY,benwoodcock,@fancyelastic Userei la cipolla rossa se ne avessimo. Le erbe cipolline sono abbondanti al momento, quindi le userò invece. Il coperchio dei semi di girasole è bloccato
+0,1468635603,Mar Apr 07 02:52:06 PDT 2009,NO_QUERY,jodiekearns,@JasonArnopp le nostre iscrizioni erano scadute e per rinnovarle dobbiamo fare una nuova induzione che non può avvenire prima del prossimo martedì
+0,1468635708,Mar Apr 07 02:52:08 PDT 2009,NO_QUERY,honeyPRmelb,ha bisogno di un po' d'amore
+0,1468635854,Mar Apr 07 02:52:12 PDT 2009,NO_QUERY,SophieGrahamX,si sta ammalando ed è molto stufa di come sono andate le cose
+0,1468635993,Mar Apr 07 02:52:15 PDT 2009,NO_QUERY,loris_sl,@MyAppleStuff purtroppo non possiamo tornare indietro nel tempo, dobbiamo aiutare a ricostruire tutto e dare a quelle povere famiglie tanto amore
+0,1468636282,Mar Apr 07 02:52:22 PDT 2009,NO_QUERY,SirCourtney,così deluso in questo momento, immagino che non debba essere
+0,1468636418,Mar Apr 07 02:52:25 PDT 2009,NO_QUERY,NathanA7X,"quindi domani/oggi finisco i compiti, mi riprendo dall'influenza, poi mi preparo per un altro giorno di scuola domani"
+0,1468636515,Mar Apr 07 02:52:27 PDT 2009,NO_QUERY,Luggy7,@Jlo1978 Ahhhhh allora quando parti? Non ce la farai per venerdì?
+0,1468636610,Mar Apr 07 02:52:30 PDT 2009,NO_QUERY,GeraldFoord,"@CaptainSeeBass @SparkyMA problemi di ragazza. Ho seriamente da pensare"
+0,1468636811,Mar Apr 07 02:52:34 PDT 2009,NO_QUERY,Isis_n_Denali,"@Monkey_Cat Il cervello della mamma è fritto, non succoso. Questo è quello che dice quando sta troppo davanti al computer. IL MIO CERVELLO È FRITTO!"
+0,1468637759,Mar Apr 07 02:52:56 PDT 2009,NO_QUERY,varicool,@allieblue Ho UNA Vodka Mudshake. Non sarà sufficiente!!!!!!!!
+0,1468637767,Mar Apr 07 02:52:55 PDT 2009,NO_QUERY,lovelylisaj,Sono stato accusato di essere un fascista dei biscotti perché ho detto che i biscotti viennesi non erano di classe operaia
+0,1468637931,Mar Apr 07 02:52:59 PDT 2009,NO_QUERY,snowy_whitexxx,Svegliati presto per studiare prima di andare a pranzo!! Ma poi devo tornare dal pranzo e studiare ancora
+0,1468637958,Mar Apr 07 02:53:00 PDT 2009,NO_QUERY,HelenHenderson,Twitter è cambiato nelle ultime 2 settimane? Riesco a vedere solo 2 pagine di tweet sul telefono, selezionando 'più vecchi' mi mostra ripetutamente la pagina 2 e non di più
+0,1468638203,Mar Apr 07 02:53:06 PDT 2009,NO_QUERY,Philst79,devo calmare i fine settimana, il blues del lunedì continua fino al martedì
+0,1468638997,Mar Apr 07 02:53:22 PDT 2009,NO_QUERY,kaboro,"@intelligensia Ti capisco perfettamente, perché l'hai fatto è al di là della mia comprensione, ho riscoperto nuove ossa sulla schiena dopo le scappatelle di domenica"
+0,1468639055,Mar Apr 07 02:53:24 PDT 2009,NO_QUERY,trentonoshiro,Vorrei dormire
+0,1468639063,Mar Apr 07 02:53:24 PDT 2009,NO_QUERY,kenguest,sarebbe fantastico se qualche luminare opensource registrasse file 'talk' per #rockbox, la voce da dalek non è impressionante
+0,1468639202,Mar Apr 07 02:53:27 PDT 2009,NO_QUERY,fingersinpies,@PolkaDotSkirt Ricevo la mia carta tra due settimane ed è una Solo, a memoria. Threadless.com è già fuori questione
+0,1468639214,Mar Apr 07 02:53:27 PDT 2009,NO_QUERY,crazytwism,@shruticute Hai qualche link web? Qui riceviamo solo l'Hindu e il TOI.
+0,1468639269,Mar Apr 07 02:53:28 PDT 2009,NO_QUERY,skynicmac,passando alla finanza manageriale... non bene
+0,1468639310,Mar Apr 07 02:53:29 PDT 2009,NO_QUERY,BoltBabe,"ops, non ci sono da un po'... tanto lavoro di scuola, quasi niente tempo per me stessa!!"
+0,1468639458,Mar Apr 07 02:53:32 PDT 2009,NO_QUERY,byronface,è triste. guardando HIMYM stag. 1 così posso essere figo come tutti gli altri. ma non mi va e continuo a forzarmi a guardare i prossimi episodi
+0,1468639568,Mar Apr 07 02:53:34 PDT 2009,NO_QUERY,Love_Wave,"@Andy_Winward Solo ""sembrano"", divertenti?"
+01468639794,Mar Apr 07 02:53:39 PDT 2009,NO_QUERY,FREDDIESDOUBLE,"@hugbubble Mi tengo ben lontano dai tuoi commenti, questo non è un bene per la specie maschile"
+0,1468640168,Mar Apr 07 02:53:48 PDT 2009,NO_QUERY,CathrynR,Posso avere un'emicrania?
+0,1468640416,Mar Apr 07 02:53:54 PDT 2009,NO_QUERY,MELANIECHEE,mi sento male anche oggi quindi non ho una gran giornata
+0,1468640566,Mar Apr 07 02:53:57 PDT 2009,NO_QUERY,rodstraks,Piuttosto stanco dopo i lavori di ieri sera. Essere svegliato presto non aiuta nemmeno
+0,1468640813,Mar Apr 07 02:54:03 PDT 2009,NO_QUERY,Salena,@rgdub. Sì! Voglio davvero andare ma devo lavorare
+0,1468641498,Mar Apr 07 02:54:17 PDT 2009,NO_QUERY,yvoncu11,al lavoro e in più sono malato. bleah..
+0,1468641595,Mar Apr 07 02:54:19 PDT 2009,NO_QUERY,flyingtoasterx,candeggina sui miei capelli per la terza volta in quattro giorni, che noia. devo uscire più tardi per spedire le millemila cose che ho venduto, che peccato
+0,1468641719,Mar Apr 07 02:54:22 PDT 2009,NO_QUERY,StaceyBeattie,Buongiorno... ho appena scoperto che devo togliere un dente del giudizio
+0,1468641786,Mar Apr 07 02:54:23 PDT 2009,NO_QUERY,NikkolaD,non riesco a trovare una foto abbastanza piccola, dovrò essere questa faccia strana per il resto della mia vita su Twitter lol
+0,1468642677,Mar Apr 07 02:54:43 PDT 2009,NO_QUERY,JOJO1124,ragazzi non riesco a dormire ma ho davvero bisogno di farlo perché ho lavoro >_< FML
+0,1468642742,Mar Apr 07 02:54:45 PDT 2009,NO_QUERY,babushka,vorrebbe che il suo bambino non fosse così malato e in ospedale stasera
+0,1468643337,Mar Apr 07 02:54:59 PDT 2009,NO_QUERY,Tiffany_sweetie,stanca non riesco a dormire, il bambino si nutre alle 3:30
+0,1468643581,Mar Apr 07 02:55:03 PDT 2009,NO_QUERY,ellie_beer,ha un gomito molto dolorante. credo sia rotto
+0,1468643979,Mar Apr 07 02:55:11 PDT 2009,NO_QUERY,sincerely_john,è depresso perché non potrà vedere David Archuleta.
+0,1468644415,Mar Apr 07 02:55:21 PDT 2009,NO_QUERY,blankdoll,Heroes è così noioso. Ugh e ho appena scoperto che ci sono altri 3 episodi in questa stagione.
+0,1468644653,Mar Apr 07 02:55:27 PDT 2009,NO_QUERY,hexigon,@kiyala Aww cosa hanno fatto i poveri asini a te?
+0,1468644732,Mar Apr 07 02:55:29 PDT 2009,NO_QUERY,NoNamesLeft123,è in dolore dopo aver avuto l'apparecchio stretto
+0,1468644838,Mar Apr 07 02:55:31 PDT 2009,NO_QUERY,emsx110,È al lavoro x
+0,1468644867,Mar Apr 07 02:55:31 PDT 2009,NO_QUERY,Imatoughcookie,Le vacanze di primavera sono finite... scuola e lavoro sono mostri che hanno preso il controllo della mia vita. Seriamente!
+0,1468644920,Mar Apr 07 02:55:33 PDT 2009,NO_QUERY,basemarketing,@redpr no, sembra che per me ci siano faccende domestiche
+0,1468644924,Mar Apr 07 02:55:33 PDT 2009,NO_QUERY,punksmurf,@arisan Niente giorno libero per te?!
+0,1468645058,Mar Apr 07 02:55:35 PDT 2009,NO_QUERY,adamfollett,è di nuovo malato in qualche modo... 2 giorni all'esame.. tempismo meraviglioso
+0,1468645098,Mar Apr 07 02:55:36 PDT 2009,NO_QUERY,passi66,preparandomi per il lavoro e lasciando il balcone Ma domani ci riprovo! ;-) ? #bel_tempo #Berlino #bella_vita
+0,1468645121,Mar Apr 07 02:55:36 PDT 2009,NO_QUERY,mommamaia,Non volevo essere un ispettore fiscale comunque
+0,1468645298,Mar Apr 07 02:55:41 PDT 2009,NO_QUERY,ravenatic,"@TweetDeck Non potresti diventare un programma separato invece di usare AIR? AIR è orribile e questa perdita di RAM è dannatamente fastidiosa!"
+0,1468645765,Mar Apr 07 02:55:51 PDT 2009,NO_QUERY,carolemc,è infastidita dalla quantità di vetro sulle strade di Dublino e dal numero di forature che mi stanno capitando
+0,1468646144,Mar Apr 07 02:55:59 PDT 2009,NO_QUERY,twinkleboi,"OMG - c'è un'ape super gigantesca al piano di sotto, la mia fobia sta prendendo il sopravvento e non posso scendere a meno che non sia sicura che se ne sia andata! aiuto!"
+0,1468646528,Mar Apr 07 02:56:08 PDT 2009,NO_QUERY,brentoli,Mancano 35 minuti per tornare a casa. Beh, non a casa. Ma a fare il bucato. A casa. Più o meno. Il bucato è a casa. Ma la lavatrice e l'asciugatrice no.
+0,1468646653,Mar Apr 07 02:56:09 PDT 2009,NO_QUERY,bigenya,E ora sono una divisione di uno
+0,1468646685,Mar Apr 07 02:56:10 PDT 2009,NO_QUERY,pauly,"@lancehenrikson ho appena scritto una cosa @ticketbot, sta spammando persone con biglietti per band con ""quella parola"" dentro. Probabilmente anche bambini"
+0,1468647126,Mar Apr 07 02:56:19 PDT 2009,NO_QUERY,Emilleigh,"Sono appena tornato a casa, vado a dormire un paio d'ore. Niente Age of Conan, spero di sognare di mangiare delizioso sushi!"
+0,1468647326,Mar Apr 07 02:56:23 PDT 2009,NO_QUERY,kirstykiddo,il mio computer non riesce ad aprire nessun file dell'università, quindi non posso fare nessun lavoro! Non capisco
+0,1468647699,Mar Apr 07 02:56:32 PDT 2009,NO_QUERY,KangarooGav,@incrediblesteve La Turchia fredda è l'unico modo che conosco
+0,1468647928,Mar Apr 07 02:56:36 PDT 2009,NO_QUERY,Sluggie,"Cani intorno alle mie caviglie perché ho dovuto chiuderli nello studio con me, lontano dai costruttori. Oh gioia, solo altre 14 settimane di questo."
+0,1468647995,Mar Apr 07 02:56:38 PDT 2009,NO_QUERY,Jamestheninja,la grande sessione di compiti delle vacanze è iniziata. Ora vattene Twitter, diavolo distratto!
+0,1468648151,Mar Apr 07 02:56:42 PDT 2009,NO_QUERY,sergeimuller,Dannazione! Credo di aver preso un bug dalla fidanzata
+0,1468648609,Mar Apr 07 02:56:52 PDT 2009,NO_QUERY,xhardtoforget,"@beccaacyrusx chyeahhhh ;) mi fanno male le spalle, la schiena e le gambe in questo momento"
+0,1468648794,Mar Apr 07 02:56:56 PDT 2009,NO_QUERY,Clethena,Mi manca una delle mie amiche
+0,1468648867,Mar Apr 07 02:56:57 PDT 2009,NO_QUERY,littlequiz,molto, molto impegnata - non riesco a usare Twitter tanto quanto prima
+0,1468649067,Mar Apr 07 02:57:01 PDT 2009,NO_QUERY,monziee,non sa cosa indossare
+0,1468649284,Mar Apr 07 02:57:05 PDT 2009,NO_QUERY,bloomworthy,@cincincintya il mio seme è sul punto di morire! pensando a quale piantina posso piantare per sostituirla
+0,1468649524,Mar Apr 07 02:57:11 PDT 2009,NO_QUERY,lewisholland,ho bisogno che succeda qualcosa di grande
+0,1468650162,Mar Apr 07 02:57:24 PDT 2009,NO_QUERY,asgriffin,"finito di dare da mangiare ai cavalli in questa mattina nevosa e ventosa di aprile"
+0,1468650456,Mar Apr 07 02:57:31 PDT 2009,NO_QUERY,gavlp,"@loris_sl Vedo che ci sono ancora scosse di assestamento lì. Sto seguendo @EQwatch che mi dice che c'è stato un altro terremoto di 4.8"
+0,1468650569,Mar Apr 07 02:57:33 PDT 2009,NO_QUERY,marinasg,vuole il suo iPod.
+0,1468650678,Mar Apr 07 02:57:36 PDT 2009,NO_QUERY,Katestar,"@yayitsfoogie aww beh pensavo che fosse un sito web divertente comunque. non essere sola!"
+0,1468650818,Mar Apr 07 02:57:38 PDT 2009,NO_QUERY,FrostedMayhem,"@xrandommcrluvrx Sì! Ossessionato! Scommetto che hanno esaurito le scorte, però. Comunque grazie per l'aiuto con il telefono, stavo usando il codice sbagliato"
+0,1468650905,Mar Apr 07 02:57:40 PDT 2009,NO_QUERY,loris_sl,"@guybatty oh mi dispiace tanto sentirlo, cosa molto triste, era così giovane"
+0,1468651102,Mar Apr 07 02:57:45 PDT 2009,NO_QUERY,Teayam,"@_Wren_ *abbraccio via internet* Sì, conosco la sensazione."
+0,1468651252,Mar Apr 07 02:57:48 PDT 2009,NO_QUERY,haily89,"@kijuto em ng? t? 1h sï¿½ng -&gt; 11h tr?a d?y ?n c?m, ?n xong ng? ti?p ??n t?n bï¿½y gi? ! mï¿½ m?t.... mï¿½ m?t...... !"
+0,1468651541,Mar Apr 07 02:57:55 PDT 2009,NO_QUERY,BertaWooster,@Kal_Penn Ho appena visto House e mi sono rattristata molto. Mi piaceva Kutner.
+0,1468651559,Mar Apr 07 02:57:55 PDT 2009,NO_QUERY,Fifi1976,Dove è andata la mattina?
+0,1468651621,Mar Apr 07 02:57:57 PDT 2009,NO_QUERY,Zahra83,"@shaksiyya cosa succedeva con voi ragazzi durante il fine settimana Shak??? non ero felice, la mia collezione di CD è vecchia!"
+0,1468651668,Mar Apr 07 02:57:58 PDT 2009,NO_QUERY,Kelliekk,Non è un ragazzo felice....
+0,1468651915,Mar Apr 07 02:58:04 PDT 2009,NO_QUERY,pharoe,"Suonerò con la mia buona amica Nicole Brilhante giovedì al Don Ho's. Per favore venite, nessun altro lo farà"
+0,1468651926,Mar Apr 07 02:58:04 PDT 2009,NO_QUERY,pjimmy,Tre applausi per la fibra fino a casa... ora dobbiamo solo aspettare 8 anni
+0,1468652261,Mar Apr 07 02:58:10 PDT 2009,NO_QUERY,kvmccrty9,"non sono riuscito a dormire ieri sera. Lavoro dalle 7 alle 15, poi cena con Megan. Buon compleanno JL!"
+0,1468652384,Mar Apr 07 02:58:13 PDT 2009,NO_QUERY,alexpanait,i link di Digg sono ora nofollow...
+0,1468652422,Mar Apr 07 02:58:14 PDT 2009,NO_QUERY,NaughtyMysti,"@rustyrockets mi mostrerai un po' d'amore, porcellone sexy, mi sento un po' sola, dai, sai che vuoi farlo ; ) x"
+0,1468652839,Mar Apr 07 02:58:23 PDT 2009,NO_QUERY,revjesse,@ecaps1 stupido idiota!! buttalo in qualche porno gay
+0,1468652933,Mar Apr 07 02:58:25 PDT 2009,NO_QUERY,Momalish,Ho perso tutto sul portatile. Non potrò fare correttamente nulla con CG fino alle 6 circa
+0,1468653165,Mar Apr 07 02:58:30 PDT 2009,NO_QUERY,melarno,ho avuto un sacco di brutte notizie oggi
+0,1468653290,Mar Apr 07 02:58:34 PDT 2009,NO_QUERY,Synoiz,Ricevo sempre più persone che mi chiedono dove possono comprare l'album #Ambients. La risposta semplice è ""non ancora"". Alla fine sarà su iTunes
+0,1468653533,Mar Apr 07 02:58:39 PDT 2009,NO_QUERY,TurtleTours,@MissyKesson scommetto che hai lasciato Mcgee lì! ahahahaha
+0,1468653662,Mar Apr 07 02:58:42 PDT 2009,NO_QUERY,loris_sl,"@gavlp sì, spero che queste scosse finiscano presto - credo che mi stia arrabbiando con la Terra stessa"
+0,1468653750,Mar Apr 07 02:58:44 PDT 2009,NO_QUERY,MihiSorensen,"Mal di gola. Per favore, Dio, non farmi ammalare. È ora di dormire, buonanotte a tutti x"
+0,1468654451,Mar Apr 07 02:58:59 PDT 2009,NO_QUERY,3adoola,non ho dormito abbastanza
+0,1468654478,Mar Apr 07 02:59:01 PDT 2009,NO_QUERY,jewphish,buongiornooo. ugh, il mio cucciolo è andato al lavoro senza telefono. non ho nessuno a cui mandare messaggi
+0,1468654794,Mar Apr 07 02:59:06 PDT 2009,NO_QUERY,gematkinson,Bevendo una Nuun lemon & lime electrolyte tab drink. Non è abbastanza dolce
+0,1468654820,Mar Apr 07 02:59:07 PDT 2009,NO_QUERY,jpoh,"@limburger2001 infrastrutture e miglioramento della copertura/servizio. la maggior parte degli hotspot wifi sono ad Adelaide/SA però"
+0,1468655096,Mar Apr 07 02:59:12 PDT 2009,NO_QUERY,etchcoli,@bloodrush545 Ugh. La pizza sarebbe fantastica in questo momento. Peccato che non sia Phoenix. Nessuna pizzeria aperta dopo le 22 circa qui.
+0,1468655166,Mar Apr 07 02:59:13 PDT 2009,NO_QUERY,Disfunctional,"@Sheamus Sì, l'ho fatto fin dall'inizio - ho solo i pannelli Tutti gli Amici | Cerca | I miei Tweet. Hmm interessante, forse si sistemerà da solo più tardi"
+0,1468655673,Mar Apr 07 02:59:26 PDT 2009,NO_QUERY,EMILYstack,"@sonnyjoeflangan oh fantastico, cavolo l'ho perso"
+0,1468656042,Mar Apr 07 02:59:34 PDT 2009,NO_QUERY,SiobhanOliver,@AllanCavanagh grazie per il link Allan-DM non funziona... il portatile è lento
+0,1468656609,Mar Apr 07 02:59:47 PDT 2009,NO_QUERY,the_su,è martedì... The Su non è riuscita a dormire ieri sera... A proposito: succo d'arancia subito dopo essersi lavati i denti con dentifricio alla cannella = che schifo
+0,1468656860,Mar Apr 07 02:59:52 PDT 2009,NO_QUERY,yazzminnewell,vorrei tanto andare in vacanza, ma non succederà
+0,1468656996,Mar Apr 07 02:59:55 PDT 2009,NO_QUERY,woodsie001,Stupido vetro e la sua capacità di tagliarmi il piede
+0,1468657023,Mar Apr 07 02:59:56 PDT 2009,NO_QUERY,blurbie,"è davvero, davvero stanca, e non ha dormito per giorni. Riesco a malapena a tenere gli occhi aperti. Mi manca davvero la mia sanità mentale."
+0,1468657409,Mar Apr 07 03:00:02 PDT 2009,NO_QUERY,at23am,appena tornata dal college. i compiti si accumulano come la merda. COSÌ MORTA DI STANCHEZZA
+0,1468657445,Mar Apr 07 03:00:03 PDT 2009,NO_QUERY,antonplusfun,Non riesco a dormire, che frustrazione!
+0,1468657673,Mar Apr 07 03:00:06 PDT 2009,NO_QUERY,ThinCasey12,"Per una volta dopo tanto tempo, non sento quel dannato rubinetto gocciolare. Ma ora non abbiamo più acqua fredda in bagno. RIP rubinetto!!!"
+0,1468658858,Mar Apr 07 03:00:24 PDT 2009,NO_QUERY,EuropeRider,Rapporti di vendita di marzo fatti... neanche la pena
+0,1468659246,Mar Apr 07 03:00:31 PDT 2009,NO_QUERY,Ringgren,c'è qualcosa di sbagliato con la stupida Vista. Lo odio.......
+0,1468659365,Mar Apr 07 03:00:34 PDT 200QUERY,corblimey,"Il viaggio di studio a Swanage è leggendario per la carneficina, è l'unica ragione per cui ho scelto Geografia... peccato che la mia università non lo organizzi #theinbetweeners"
+0,1468659707,Mar Apr 07 03:00:40 PDT 2009,NO_QUERY,laurajdavis,"Ho guardato #Twilight ieri sera, è stato geniale ma non così bello come il libro!"
+0,1468659961,Mar Apr 07 03:00:45 PDT 2009,NO_QUERY,karomietz,come ottenere i biglietti per il "give it a name festival" sold out di sabato?
+0,1468659963,Mar Apr 07 03:00:45 PDT 2009,NO_QUERY,Chezzym,"vado a fare la doccia e a lavarmi i denti, non ho voglia di andare al lavoro"
+0,1468660902,Mar Apr 07 03:01:03 PDT 2009,NO_QUERY,frauclouds,Non più innocente allora... http://news.bbc.co.uk/1/hi/uk/7986901.stm
+0,1468661110,Mar Apr 07 03:01:11 PDT 2009,NO_QUERY,SEOPPCLondon,"Wow.(non correlato al lavoro) Ho fatto la SEO per un sito che ho progettato e ora è al primo posto su MSN, Google e ASK - Purtroppo, non Yahoo"
+0,1468661143,Mar Apr 07 03:01:11 PDT 2009,NO_QUERY,mycoldman,"Tante domande per il prossimo podcast di Battlestations. Faremo del nostro meglio, ma non possiamo rispondere a tutte."
+0,1468661241,Mar Apr 07 03:01:12 PDT 2009,NO_QUERY,smileyh10,studiare storia della musica..... annoiato..... aiutatemi per favore!!!!!!!!!!
+0,1468661257,Mar Apr 07 03:01:12 PDT 2009,NO_QUERY,jodiekearns,vorrei che ci fosse un piccolo tunnel (preferibilmente uno scivolo!) diretto dallo spogliatoio all'acqua così la gente non mi vede con il costume
+0,1468662152,Mar Apr 07 03:01:28 PDT 2009,NO_QUERY,jodi_ice,"@FREDDIESDOUBLE sono contenta di non essere al lavoro, ma stanca di soffrire... il mal d'orecchi permanente da quasi un anno non è divertente"
+0,1468662767,Mar Apr 07 03:01:40 PDT 2009,NO_QUERY,FranciscoAndre,"Non mi piace affatto la nuova politica dei prezzi di iTunes. Voglio dire, ho visto diverse canzoni a $1.29, ma non una sola a $0.69!"
+0,1468662775,Mar Apr 07 03:01:40 PDT 2009,NO_QUERY,ceedee75,"@Natasja_Cupcake Sarebbe fantastico! Ho di nuovo una giornata di merda, non riesco proprio a mettermi di buon umore. Un po' di sole aiuterebbe!!!"
+0,1468663026,Mar Apr 07 03:01:45 PDT 2009,NO_QUERY,xoladykayxo,Dio per favore... sto cercando di essere una brava ragazza... tu lo sai meglio di tutti... non voglio finire nei guai... aiutami qui.... OMG...
+0,1468663148,Mar Apr 07 03:01:48 PDT 2009,NO_QUERY,dilalid,odio anch'io il nuovo look di Facebook! così incasinato e tutto è dappertutto! voglio indietro quello vecchio!
+0,1468663184,Mar Apr 07 03:01:49 PDT 2009,NO_QUERY,jeremy_ellis,"@nickynocky Sì è spazzatura, credo che la mia bolletta sia aumentata, e devi filtrare l'acqua di merda"
+0,1468663313,Mar Apr 07 03:01:51 PDT 2009,NO_QUERY,sergypoo,@ohmontana affare! Ti colpirò con il mio pliplup o come si chiama. Quello dell'acqua. Appena al livello 20
+0,1468663535,Mar Apr 07 03:01:56 PDT 2009,NO_QUERY,smartestgames,Qualcuno da qualche parte non ha apprezzato Sheepish http://www.smartestgames.com/gotdhistory.php?id=141
+0,1468663567,Mar Apr 07 03:01:56 PDT 2009,NO_QUERY,RebelSean,@davidtaraso Sono bloccato al Capitolo 3 Destinazione Incenerimento.
+0,1468663819,Mar Apr 07 03:02:01 PDT 2009,NO_QUERY,Sekhat,3 giorni per fare 6 giorni di lavoro...
+0,1468663845,Mar Apr 07 03:02:02 PDT 2009,NO_QUERY,juliet128,mi manca mia figlia. è andata via ieri per una settimana per un corso per aiutarla a insegnare ginnastica. la casa è troppo silenziosa
+0,1468664147,Mar Apr 07 03:02:07 PDT 2009,NO_QUERY,worldwidewade,evviva!!! l'app di Skype. ora disponibile sull'i-phone, cosa succederà dopo? tranne che non puoi usare il video
+0,1468664220,Mar Apr 07 03:02:08 PDT 2009,NO_QUERY,FranciscoAndre,"Non mi piace affatto la nuova politica dei prezzi di iTunes. Voglio dire, ho visto diverse canzoni a $1.29, ma non una sola a $0.69!"
+0,1468664472,Mar Apr 07 03:02:13 PDT 2009,NO_QUERY,Ayla_F,@LanieFuller Mi sento davvero male oggi, e tu?
+0,1468664538,Mar Apr 07 03:02:13 PDT 2009,NO_QUERY,pakhurdepandit,Webview (uno dei controlli di iPhone SDK) è troppo lento, anche per caricare una pagina locale personalizzata ci vuole un tempo marginale
+0,1468664704,Mar Apr 07 03:02:17 PDT 2009,NO_QUERY,ammaryasir,"non riesco a mangiare, bere o respirare correttamente a causa di una brutta infezione alla gola"
+0,1468664737,Mar Apr 07 03:02:18 PDT 2009,NO_QUERY,katypops,"@Kara_YourSoJT Dipende quando vai. Non voglio perdere tempo in città. Ooo Aisha, TUNE! Doreta Beach spaccherà! x"
+0,1468664770,Mar Apr 07 03:02:18 PDT 2009,NO_QUERY,albeitludicrous,"PERCHÉ NON RIESCO A RESPIRARE?! Sì, un'esagerazione in termini, ma comunque. Odio stare male."
+0,1468665200,Mar Apr 07 03:02:27 PDT 2009,NO_QUERY,ocelot2dot0,mangiando pranzo... ho dimenticato di prendere cibo cucinato in casa stamattina
+0,1468665356,Mar Apr 07 03:02:31 PDT 2009,NO_QUERY,garkbit,"@SamShepherd Dannazione, non sembro essere molto bravo in questo"
+0,1468665735,Mar Apr 07 03:02:38 PDT 2009,NO_QUERY,Natalie_Waine,"vorrebbe ricevere 900 dollari gratis, ma noooo! Il signor Rudd vuole fare il cattivo!!!"
+0,1468665909,Mar Apr 07 03:02:42 PDT 2009,NO_QUERY,nikkiwoods,@OhDatsBeezy - non mi dispiace affatto. Sono indietro con i miei follower.
+0,1468666330,Mar Apr 07 03:02:50 PDT 2009,NO_QUERY,ChezHilton,Sono appena stato dal medico e mi ha dato degli antibiotici per la gola. Niente alcol per una settimana
+0,1468667487,Mar Apr 07 03:03:12 PDT 2009,NO_QUERY,ecaps1,@revjesse Ahahah se solo facesse abbastanza caldo!! Voglio lavorare altrove... tipo a sistemare gli scaffali in qualche negozio sporco
+0,1468668239,Mar Apr 07 03:03:28 PDT 2009,NO_QUERY,woodsm3,non riuscivo a dormire. ho letto alcuni Animorphs e ora sto provando a dormire di nuovo. per favore, funziona questa volta. sono esausto e voglio coccole
+0,1468668405,Mar Apr 07 03:03:32 PDT 2009,NO_QUERY,Maddieeeeeeee,"il gatto della sorella Meatball ha avuto la zampa schiacciata, deve essere amputata ora, povera piccola"
+0,1468668791,Mar Apr 07 03:03:39 PDT 2009,NO_QUERY,megasherwin,"@OfficialRandL cosaaaaaa?! non hanno pubblicato niente di nuovo da circa 2 anni, e sono una schifezza!! quando sarà disponibile la scaletta completa?"
+0,1468669969,Mar Apr 07 03:04:05 PDT 2009,NO_QUERY,Rosaapril,@Matthew_Day Sì... al lavoro
+0,1468670100,Mar Apr 07 03:04:07 PDT 2009,NO_QUERY,revjesse,@ecaps1 arrrrg deve essere brutto McDonald's / Burger King assumono sempre
+0,1468670376,Mar Apr 07 03:04:13 PDT 2009,NO_QUERY,Stephayeney,Il mio naso sanguina
+0,1468670921,Mar Apr 07 03:04:25 PDT 2009,NO_QUERY,tekong,@ditesh ahah non sono sicuro di cosa posso offrire per Foss.my. Non uso molto software opensource (Viva Adobe per essere costoso)
+0,1468670923,Mar Apr 07 03:04:25 PDT 2009,NO_QUERY,helskibelski,la colla non viene via. è così irritante
+0,1468670992,Mar Apr 07 03:04:27 PDT 2009,NO_QUERY,deathburlesque,Non riesco a credere che sia sveglia alle 6 del mattino di martedì. *sbadiglio* E ho fatto un brutto sogno. Peccato
+0,1468671120,Mar Apr 07 03:04:30 PDT 2009,NO_QUERY,mr_trick,"@sentricmusic ...basti dire che la loro offerta è stata ignorata. Poi è stato lanciato EMI.com e tutti hanno riso parecchio..."
+0,1468671171,Mar Apr 07 03:04:31 PDT 2009,NO_QUERY,babitharkarkera,mi sento giù oggi
+0,1468671374,Mar Apr 07 03:04:35 PDT 2009,NO_QUERY,crazayh_random,Annoiato e stanco. Mi manca il tempo per restare a casa
+0,1468671482,Mar Apr 07 03:04:37 PDT 2009,NO_QUERY,vnskndrs,Piove a dirotto fuori e io sono intrappolato in questo edificio, non posso tornare a casa
+0,1468671605,Mar Apr 07 03:04:41 PDT 2009,NO_QUERY,nabilaqila,@dilyswei grazie! so che non è finita ma il fatto di aver studiato giorno e notte mi ha rattristato
+0,1468671624,Mar Apr 07 03:04:40 PDT 2009,NO_QUERY,joshwinton,"Non volevo nemmeno alzarmi per andare al lavoro stamattina. Non mi andava, ma ho dovuto comunque."
+0,1468671668,Mar Apr 07 03:04:41 PDT 2009,NO_QUERY,mr_jpc,Che diavolo!? Non hanno ancora messo online Britney per il disco.
+0,1468671683,Mar Apr 07 03:04:41 PDT 2009,NO_QUERY,jun6lee,"@chhavi Lavorando, lavorando, lavorando."
+0,1468673509,Mar Apr 07 03:05:18 PDT 2009,NO_QUERY,JojoLamont,sta soffrendo di nuovo con le orecchie
+0,1468673749,Mar Apr 07 03:05:23 PDT 2009,NO_QUERY,smartestgames,Qualcuno in ROMANIA non ha apprezzato Mystic Myre http://www.smartestgames.com/gotd.php
+0,1468673840,Mar Apr 07 03:05:25 PDT 2009,NO_QUERY,Ayshah_,"devo smettere di consegnare i compiti in ritardo, avrei un A in Information Systems se non fosse per i pochi compiti in ritardo"
+0,1468674217,Mar Apr 07 03:05:33 PDT 2009,NO_QUERY,petervanwesten,Voglio i miei cereali! Ma non abbiamo latte
+0,1468674264,Mar Apr 07 03:05:35 PDT 2009,NO_QUERY,andylloydgordon,Oh no! Il parcheggio gratuito che uso sempre ora è a pagamento. Ma non ho spiccioli
+0,1468674268,Mar Apr 07 03:05:34 PDT 2009,NO_QUERY,TiffaniDanyelle,"@zenojones Non riesco a dormire... Troppo da fare, troppo poco tempo. Lunga settimana davanti a me! E ok, ti prenderò il cappello lol"
+0,1468674287,Mar Apr 07 03:05:35 PDT 2009,NO_QUERY,spwhitton,Ho appena avviato Windows per caricare qualcosa perché Internet è ancora peggio con Ubuntu
+0,1468674354,Mar Apr 07 03:05:36 PDT 2009,NO_QUERY,nomand,stava giocando a inserire nomi utente Twitter casuali. Tanti spazi vuoti sprecati!
+0,1468674794,Mar Apr 07 03:05:46 PDT 2009,NO_QUERY,emmacharlesbeth,Ho totalmente mentito sul fatto di fare un viaggio per evitare di uscire con qualcuno. 'Aeroporto' era l'unica scusa che mi è venuta in mente.
+0,1468674879,Mar Apr 07 03:05:47 PDT 2009,NO_QUERY,kennethkhaw,"@whatdamnnick beh, il problema con la pioggia qui è che arriva con un freddo estremo."
+0,1468674937,Mar Apr 07 03:05:49 PDT 2009,NO_QUERY,rafeon,NBCNews riporta che il principale consigliere economico del Presidente #Summers è pieno di soldi di Wall Street (8 milioni da un HedgeFund) da banche che sono state salvate
+0,1468674970,Mar Apr 07 03:05:49 PDT 2009,NO_QUERY,poyntersstargal,"@tommcfly divertiti Tom, devo comprare anche Eclipse ma non ho soldi. tempi tristi"
+0,1468675224,Mar Apr 07 03:05:55 PDT 2009,NO_QUERY,SkylarElsinore,deve aspettare UNA SETTIMANA per sapere se la sua scrittura è buona. Che schifo!
+0,1468675355,Mar Apr 07 03:05:57 PDT 2009,NO_QUERY,changdice,(evviva! SJ sarà su vieni a giocare. Kibum è ovviamente scomparso e anche Teuk)
+0,1468675921,Mar Apr 07 03:06:10 PDT 2009,NO_QUERY,rgoodchild,@wellreadkitty oh povera cosa, mi piaceva spremere il pus quando ero un'infermiera veterinaria. un po' disgustoso, davvero...
+0,1468676006,Mar Apr 07 03:06:11 PDT 2009,NO_QUERY,beatbackbones,"""Qual è il tuo stilista vintage preferito?"" Lucy: ""Topshop."" Mi manca la terza stagione di Britain's NTM."
+0,1468676206,Mar Apr 07 03:06:16 PDT 2009,NO_QUERY,blacklickorish,@darenzia supponendo che non ti vedrò prima che tu parta... mi mancherai, tesoro : *
+0,1468676216,Mar Apr 07 03:06:15 PDT 2009,NO_QUERY,t33zy,Voglio andare a casa!
+0,1468676262,Mar Apr 07 03:06:17 PDT 2009,NO_QUERY,cadcam3d,Testando SMS mobile di Twitter dall'Australia (costoso)
+0,1468676432,Mar Apr 07 03:06:20 PDT 2009,NO_QUERY,SunshineeKiid,guardando roba commerciale lol e ho compiti da fare intrattenetemi
+0,1468676549,Mar Apr 07 03:06:22 PDT 2009,NO_QUERY,Kareena,"@Plip Vorrei provare Trillian Astra, ma è una beta chiusa e non mi fanno entrare"
+0,1468676705,Mar Apr 07 03:06:25 PDT 2009,NO_QUERY,iantalbot,@Tittch Aderisco al suggerimento di Andrew. Potrebbero farti entrare come emergenza. Su con la vita. Ti penso.
+0,1468677050,Mar Apr 07 03:06:33 PDT 2009,NO_QUERY,carms_,povero Ando. è stato appena sparato
+0,1468677236,Mar Apr 07 03:06:37 PDT 2009,NO_QUERY,KellyLouEvans,seduta alla mia scrivania a cenare. Ottimo cibo tailandese ma una situazione un po' triste in generale
+0,1468677755,Mar Apr 07 03:06:49 PDT 2009,NO_QUERY,kika89,@moreshannon non è qui! è al sud per 2 giorni a lavorare!
+0,1468677850,Mar Apr 07 03:06:50 PDT 2009,NO_QUERY,MoodleDan,#mmuk09 Moodle 1.x deve essere aggiornato alla 1.9 prima di essere aggiornato alla 2.0 - I temi probabilmente si romperanno però
+0,1468677960,Mar Apr 07 03:06:52 PDT 2009,NO_QUERY,eastereggsuk,@Rooxxy Ho tonnellate qui. Credo che dovrò donarne alcuni! Non riesco più a mangiarne!
+0,1468678398,Mar Apr 07 03:07:02 PDT 2009,NO_QUERY,_samanthamarie,@TomFelton Le notti insonni fanno schifo! La palestra però mi fa sempre sentire meglio!! Servizio fotografico per cosa?
+0,1468678473,Mar Apr 07 03:07:05 PDT 2009,NO_QUERY,Keilaela,Quella notte ha scombussolato il mio sonno.
+0,1468678699,Mar Apr 07 03:07:09 PDT 2009,NO_QUERY,ohmelissa,@ALEXRUSSIN Fortunato, l'ho perso
+0,1468679127,Mar Apr 07 03:07:17 PDT 2009,NO_QUERY,nikg83,Sono con O2 da 18 mesi. Ho bisogno di un upgrade del telefono. L'iPhone costa £500+ per la durata del contratto. Ho bisogno di uno smartphone con un piano economico!
+0,1468679244,Mar Apr 07 03:07:19 PDT 2009,NO_QUERY,SorenLorensen,"@paulriggall Anch'io, perché non vado a Glasto?! Stupida ragazza! Suonano anche Crosby, Stills & Nash!"
+01468679388,Mar Apr 07 03:07:23 PDT 2009,NO_QUERY,RedNikita,@NuJurzyBoricua Voglio tornare a casa e andare a letto. lol cosa stai facendo oggi?
+0,1468680054,Mar Apr 07 03:07:36 PDT 2009,NO_QUERY,haligonia,@Honey_ È brutto. Nessuna segnalazione di inondazioni finora. Molte segnalazioni di capelli disordinati e pantaloni bagnati però.
+0,1468680069,Mar Apr 07 03:07:36 PDT 2009,NO_QUERY,KatieP2008,"@rustyrockets Non è il mio compleanno, qualcosa è andato storto, per favore rispondi o sentirò che non mi ami"
+0,1468680347,Mar Apr 07 03:07:42 PDT 2009,NO_QUERY,ALeeT666,La zuppa della mamma mi ha fatto fare strani rumori allo stomaco
+0,1468680357,Mar Apr 07 03:07:42 PDT 2009,NO_QUERY,Amanda____,il portatile sta esaurendo la batteria
+0,1468680562,Mar Apr 07 03:07:46 PDT 2009,NO_QUERY,grohs,preoccupato per il cane peloso che ha molto tartaro sui denti e ha bisogno di cure dentistiche
+0,1468681176,Mar Apr 07 03:07:59 PDT 2009,NO_QUERY,ReluctantNinja,Finalmente! Altri Ninja che accedono al forum ;) Se l'avete fatto di recente potete rifarlo... perché prima era un po' rotto
+0,1468681243,Mar Apr 07 03:08:01 PDT 2009,NO_QUERY,picsruledolfins,ughhhhhhhhhh twitter è così ritardato
+0,1468681338,Mar Apr 07 03:08:03 PDT 2009,NO_QUERY,jeremy_ellis,"@nickynocky Sto cercando altri fornitori di servizi pubblici stasera"
+0,1468681347,Mar Apr 07 03:08:03 PDT 2009,NO_QUERY,PurpleCloudz,@whykay Qui sta diluviando.
+0,1468681455,Mar Apr 07 03:08:06 PDT 2009,NO_QUERY,shannonmelliott,"fragole ricoperte di cioccolato e ricotta, mi hai sconfitto"
+0,1468681696,Mar Apr 07 03:08:12 PDT 2009,NO_QUERY,kkaarreenn,Ho davvero bisogno di andare dal dentista.
+0,1468681809,Mar Apr 07 03:08:14 PDT 2009,NO_QUERY,RicRaftis,"@mfarnsworth Tu e io saremo entrambi in pensione quando tutto questo sarà finito, amico."
+0,1468681937,Mar Apr 07 03:08:17 PDT 2009,NO_QUERY,africamiranda,Un lungo volo è reso ancora più lungo da un sedile che non si reclina. Scendo dal volo notturno e sono di cattivo umore
+0,1468682092,Mar Apr 07 03:08:19 PDT 2009,NO_QUERY,LadyLucius,"@absolutelybatty *ABBRACCI A RITORNO* Grazie, cara. Non riesco a credere che sia andato via!"
+0,1468682264,Mar Apr 07 03:08:22 PDT 2009,NO_QUERY,hihat7,ho appena ricevuto una maglietta da tennis per posta ma non mi piace ed è troppo grande! peccato
+0,1468682647,Mar Apr 07 03:08:31 PDT 2009,NO_QUERY,Wynnie8,solo mezzo giorno dopo e le formiche hanno ripulito le sue ossa... quel povero scheletro di geco... così inquietante. mi pento di non averlo ucciso per pietà...
+0,1468682904,Mar Apr 07 03:08:36 PDT 2009,NO_QUERY,SimonDarke,Uomo, oggi sta andando cosìoooo lentamente
+0,1468683235,Mar Apr 07 03:08:44 PDT 200QUERY,tara_mcdonald,vorrei avere 5 anni di nuovo
+0,1468683358,Mar Apr 07 03:08:47 PDT 2009,NO_QUERY,RyanPlugs,perché devo andare più spesso al lavoro noioso che a quello bello
+0,1468683384,Mar Apr 07 03:08:47 PDT 2009,NO_QUERY,BlondieBrutal,http://twitpic.com/2y8lt - Mi sento così male per la band in questo momento
+0,1468683440,Mar Apr 07 03:08:49 PDT 2009,NO_QUERY,kitdude21,"@JonnyPotter La cosa dei Simpsons on demand non funziona nel Regno Unito"
+0,1468683587,Mar Apr 07 03:08:53 PDT 2009,NO_QUERY,amy2608,Non ho voglia di ripassare.
+0,1468683768,Mar Apr 07 03:08:56 PDT 2009,NO_QUERY,el393way,sveglio, test di spagnolo da recuperare stamattina.
+0,1468683960,Mar Apr 07 03:09:00 PDT 2009,NO_QUERY,liffeyd,dotnetnuke.com è giù Errore del server nell'applicazione '/'.
+0,1468684314,Mar Apr 07 03:09:07 PDT 2009,NO_QUERY,reesmf,Archiviando i file di progetto su SharePoint. Non è divertente
+0,1468684413,Mar Apr 07 03:09:10 PDT 2009,NO_QUERY,raimesh,Un altro set di auricolari iPod che muoiono - il sinistro sta diventando silenzioso. Apple fa pagare 20 sterline per i ricambi. Opzioni migliori a quel prezzo?
+0,1468684447,Mar Apr 07 03:09:10 PDT 2009,NO_QUERY,JessShu,sono in una notte da Miley!!!!!! niente sonno che noia
+0,1468684470,Mar Apr 07 03:09:11 PDT 2009,NO_QUERY,damadalpha,Wow! Ho appena fatto 5 suicidi di fila. FYI: a meno che tu non sia un atleta professionista... non dovresti fare suicidi.
+0,1468684547,Mar Apr 07 03:09:13 PDT 2009,NO_QUERY,victoria_tweed,@themaccabees Ho ordinato quel set speciale da 7 pollici da quel posto online (sono così smemorata) ma non è ancora arrivato, lo voglioooo
+0,1468684597,Mar Apr 07 03:09:13 PDT 2009,NO_QUERY,muffinfloss,"Ho deciso che la mia stanza ha bisogno di essere più 'originale', così Angel mi ha dato uno specchio! E anche il mio pulsante 'a' non funziona molto bene"
+0,1468684623,Mar Apr 07 03:09:14 PDT 2009,NO_QUERY,craigmcconville,urghhhhhh stanco, ho bisogno di una bella dormita :|
+0,1468684797,Mar Apr 07 03:09:19 PDT 2009,NO_QUERY,rockblondsky,"Dindle Manksniff Foods Corp. il fondatore Dindle Manksniff scompare durante un viaggio a mezzanotte al frigorifero, presunto morto"
+0,1468685616,Mar Apr 07 03:09:37 PDT 2009,NO_QUERY,melissatsang,"Mandy Moore ""Cry""? http://twt.fm/33009 - ""A Walk to Remember"" di gran lunga il mio film preferito, così triste che ho pianto come un bambino"
+0,1468685785,Mar Apr 07 03:09:40 PDT 2009,NO_QUERY,nickdowse,"@LgHague Solo l'università, che mi rovina la vita come al solito"
+0,1468686500,Mar Apr 07 03:09:57 PDT 2009,NO_QUERY,bexreardon,perché The Hills non è ancora disponibile online?? così deludente
+0,1468686594,Mar Apr 07 03:09:58 PDT 2009,NO_QUERY,DivasMistress,"@nikkiwoods Esatto!!! Per qualche ragione penso che Foxx sia fuori combattimento, quindi non so cosa succederà, scusa"
+0,1468686690,Mar Apr 07 03:10:01 PDT 2009,NO_QUERY,Vincent_Rennie,i poveri spartani
+0,1468686705,Mar Apr 07 03:10:01 PDT 2009,NO_QUERY,CecileNguyen,Sono annoiata. Il sole non è presente nel cielo. Sono così depressa! Voglio vedere il SOLE...
+0,1468686757,Mar Apr 07 03:10:02 PDT 2009,NO_QUERY,IndyEight,"La mia notte; sono andato al bar, ho toccato una donna sposata, sono tornato a casa duro e solo"
+0,1468686862,Mar Apr 07 03:10:03 PDT 2009,NO_QUERY,mbaas,Quel crash di IIS è una bella scocciatura. Postato su newsgroup: http://is.gd/raIp
+0,1468686988,Mar Apr 07 03:10:05 PDT 2009,NO_QUERY,Emmavieceli,"bah, il sistema immunitario ha finalmente ceduto. Ha fatto così bene quest'anno.... La gola mi fa orribilmente male adesso."
+0,1468687112,Mar Apr 07 03:10:08 PDT 2009,NO_QUERY,PoppyBlack,giornata di merda finora. perché?
+0,1468687248,Mar Apr 07 03:10:10 PDT 2009,NO_QUERY,PixieFlute,@BeththePQ il tuo blog non mi fa commentare di nuovo!
+0,1468687388,Mar Apr 07 03:10:13 PDT 2009,NO_QUERY,emoly28,i miei denti fanno male
+0,1468687628,Mar Apr 07 03:10:18 PDT 2009,NO_QUERY,errrotic,Ho mal di testa
+0,1468687678,Mar Apr 07 03:10:18 PDT 2009,NO_QUERY,marcec,@adamcurry posso avere la versione scaricabile di Dvorak Interlude... dato che lo streaming è bandito al lavoro...
+0,1468687716,Mar Apr 07 03:10:19 PDT 2009,NO_QUERY,chrisgarrett,"@wwwicked Credo di aver provato di tutto ma sentiti libero di provare a risolverlo, sono a corto di idee"
+0,1468687808,Mar Apr 07 03:10:22 PDT 2009,NO_QUERY,duskyazure,Beh, è stato uno spreco di tempo
+0,1468687825,Mar Apr 07 03:10:22 PDT 2009,NO_QUERY,Beever,"#i36 Spero di sentirmi meglio entro giovedì, sarò seriamente arrabbiato se sarò malato durante il LAN"
+0,1468687951,Mar Apr 07 03:10:25 PDT 2009,NO_QUERY,sophizz,"Tornato da Bangalore, mi è mancato ballare con un bellissimo straniero sorridente"
+0,1468688452,Mar Apr 07 03:10:34 PDT 2009,NO_QUERY,nadkat,ora devo fare i miei stupidi compiti di italiano
+0,1468688728,Mar Apr 07 03:10:40 PDT 2009,NO_QUERY,sexiesarah,non ho voglia di alzarmi dal letto oggi - mi sento super pigra! mi manca Josh
+0,1468688802,Mar Apr 07 03:10:42 PDT 2009,NO_QUERY,Muzzzza,è ora del caffè - vorrei avere del whisky come @cameronreilly
+0,1468689077,Mar Apr 07 03:10:48 PDT 2009,NO_QUERY,waitingforgo,voglio davvero giocare a Singstar! ma tutti i miei dischi di Singstar sono graffiati
+0,1468689241,Mar Apr 07 03:10:51 PDT 2009,NO_QUERY,Monica992,@mileycyrus ahi, anche a me
+0,1468689801,Mar Apr 07 03:11:03 PDT 2009,NO_QUERY,julesyjules23,Non ho visto molti fiori di ciliegio quest'anno
+0,1468690477,Mar Apr 07 03:11:17 PDT 2009,NO_QUERY,jolyon_russ,ARGH!!! iggy pop swift cover add on #spotify un modo per rovinare l'umore
+0,1468690880,Mar Apr 07 03:11:25 PDT 2009,NO_QUERY,twpsyn,"Cavolo, ho completamente dimenticato un webinar a cui volevo partecipare stamattina. Ora non saprò mai come proteggere gli ambienti virtualizzati"
+0,1468691113,Mar Apr 07 03:11:29 PDT 2009,NO_QUERY,mishmash21,andrò al tribunale di locazione domani, cerco di riavere la mia caparra
+0,1468691434,Mar Apr 07 03:11:36 PDT 2009,NO_QUERY,autojoy,@Emmavieceli aw no Guarisci presto! Bevi tisane al miele e limone!
+0,1468691690,Mar Apr 07 03:11:41 PDT 2009,NO_QUERY,PenguinVK,ugh qualcuno sa cosa posso fare per fermare gli attacchi di ansia? per favore... ho bisogno di aiuto
+0,1468691737,Mar Apr 07 03:11:44 PDT 2009,NO_QUERY,Dragonrider80,"@cupcakesfortwo nessun dolore per essere davvero il problema però, c'è la cosa.. non riesco a capirlo..."
+0,1468691796,Mar Apr 07 03:11:44 PDT 2009,NO_QUERY,mo3ath,al degool cafe aspettando che l'orologio segnali le 14
+0,1468691825,Mar Apr 07 03:11:45 PDT 2009,NO_QUERY,prateekgupta,Mi sento male
+0,1468692221,Mar Apr 07 03:11:54 PDT 2009,NO_QUERY,fantasy_f1,"Dovrà bastare, ho perso la password della versione senza il _"
+0,1468692330,Mar Apr 07 03:11:56 PDT 2009,NO_QUERY,chikadee,Cazzo. Oggi mi sento molto peggio
+0,1468693117,Mar Apr 07 03:12:11 PDT 2009,NO_QUERY,CecileNguyen,"In Francia, oggi piove"
+0,1468693443,Mar Apr 07 03:12:17 PDT 2009,NO_QUERY,masudiiuc,"ufffffffffffffffff, ke gorom!!!! ho bisogno di uno stagno per nuotare"
+0,1468693756,Mar Apr 07 03:12:24 PDT 2009,NO_QUERY,l_ale,cercando un nuovo lavoro..
+0,1468693896,Mar Apr 07 03:12:26 PDT 2009,NO_QUERY,mysee2020,5 ore di sonno in 4 giorni e ancora al lavoro per il mio compleanno
+0,1468693970,Mar Apr 07 03:12:29 PDT 2009,NO_QUERY,earcos,@juanpol Quella pagina non esiste!
+0,1468693972,Mar Apr 07 02:12:29 PDT 2009,NO_QUERY,subaie,"@ammarz Non sono riuscito a installarlo per gli utenti XP qui ad Aramco, gli utenti Vista non hanno problemi, strano"
+0,1468694428,Mar Apr 07 03:12:37 PDT 2009,NO_QUERY,Jayme1988,@Seamonkey86 Sono in una fase di alimentazione sana! Potrei avere solo un pony Shetland.
+0,1468694601,Mar Apr 07 03:12:41 PDT 2009,NO_QUERY,yensidek,"Non ho dormito affatto bene e ho un mal di stomaco molto forte."
+0,1468694803,Mar Apr 07 03:12:44 PDT 2009,NO_QUERY,VDJBailey,sta stendendo il bucato
+0,1468695202,Mar Apr 07 03:12:53 PDT 2009,NO_QUERY,emibabee,sto per portare a spasso il mio cane, sono anche un po' stanca, stamattina ho fatto allenamento
+0,1468695370,Mar Apr 07 03:12:56 PDT 2009,NO_QUERY,live_laughx3,"scuola, spero per qualche ragione che sia così TANTO divertente, e tipo il migliore. hehe"
+0,1468695463,Mar Apr 07 03:12:58 PDT 2009,NO_QUERY,jesstheemoninja,@bradiewebbstack aww povera Bradie, riempi quelle verdure! Prendi posizione!!
+0,1468696454,Mar Apr 07 03:13:18 PDT 2009,NO_QUERY,aaronhb,@vickybeeching ho visto qualcuno all'Apple Store dire che la loro garanzia è stata annullata perché hanno sbloccato il loro telefono.
+0,1468696457,Mar Apr 07 03:13:19 PDT 2009,NO_QUERY,crighopekn1ght,"sveglio, e la gola fa ancora male"
+0,1468696535,Mar Apr 07 03:13:20 PDT 2009,NO_QUERY,Bruno108,lezione di italiano adesso! Annoiato!
+0,1468696840,Mar Apr 07 03:13:26 PDT 2009,NO_QUERY,KatelynWelch,ooooooooooooh la mia testaaaaa, zio Johnny non avrei mai dovuto accettare di lavorare per te alle elezioni cittadine quando mi sono ubriacato così tanto ieri sera... ahi
+0,1468696889,Mar Apr 07 03:13:27 PDT 2009,NO_QUERY,DaveP_Twit,@shedfire La signora Shedfire ti ha fatto delle foto senza maglietta? Bleeeech!
+0,1468697007,Mar Apr 07 03:13:29 PDT 2009,NO_QUERY,lupestripe,@cuprohastes Non date alle auto i Milky Ways, non gli piacciono. Quella pubblicità era molto fuorviante - guastarsi sulla A14 non è divertente
+0,1468697183,Mar Apr 07 03:13:33 PDT 2009,NO_QUERY,rustyjam,@johnnybeane anch'io... guarderò su Amazon UK.. altrimenti mi faranno pagare la tassa doganale se lo ordino dagli Stati Uniti
+0,1468697268,Mar Apr 07 03:13:35 PDT 2009,NO_QUERY,Amanda_Duffy,Nuova Zelanda il posto giusto! Mi manca un po' il mio letto però
+0,1468697350,Mar Apr 07 03:13:36 PDT 2009,NO_QUERY,jaybeean,ho appena letto il fantastico blog di R#42. sono così stanca. non voglio andare a scuola nemmeno domani. hmmph
+0,1468697384,Mar Apr 07 03:13:37 PDT 2009,NO_QUERY,rissuha,"odio essere sveglia! vado a scuola, presentazione di civiltà occidentale e un pranzo davvero fantastico."
+0,1468697461,Mar Apr 07 03:13:39 PDT 2009,NO_QUERY,raecheybaby,ha appena scoperto lo svantaggio di essere andato via per il weekend - la spesa deve ancora essere fatta
+0,1468697818,Mar Apr 07 03:13:47 PDT 2009,NO_QUERY,LaRainbow,"@_ophelia Haha, scusa. Ora cerco di parlare normalmente, ok?"
+0,1468697974,Mar Apr 07 03:13:50 PDT 2009,NO_QUERY,kiley_,è neve?
+0,1468698369,Mar Apr 07 03:13:57 PDT 2009,NO_QUERY,thcasper,Moulin Rouge mi ha fatto piangere!! ancora una volta!
+0,1468698449,Mar Apr 07 03:13:59 PDT 2009,NO_QUERY,SteveBrownCroy,Cercando di gridare ma non riesco a trovare persone nella lista
+0,1468698509,Mar Apr 07 03:14:01 PDT 2009,NO_QUERY,ellahungerford,"ughh non riesco a trovare il mio cappello dei Red Sox, devo indossare questa inquietante versione di Nick Pirro"
+0,1468698601,Mar Apr 07 03:14:02 PDT 2009,NO_QUERY,Eloewien,ha dormito meravigliosamente - finalmente. ha provato a fare un campione per un nuovo progetto (cardigan Classic Lines) dalla scorta ma non le piacciono i colori, deve aspettare per ora...
+0,1468698954,Mar Apr 07 03:14:09 PDT 2009,NO_QUERY,bsoric,ARGH perché i linuxiani hanno chiamato il loro scheduler di attività "at"? Rende impossibile cercare aiuto con
+0,1468699286,Mar Apr 07 03:14:17 PDT 2009,NO_QUERY,arunjeetsingh,Un po' stanco della lamentela 24/7 che mi circonda #fb
+0,1468699381,Mar Apr 07 03:14:18 PDT 2009,NO_QUERY,tourmaline1973,Sospiro. Sono seduto qui a lavorare con la gamba appoggiata. Mi fa sentire meglio la caviglia ma mi fa male il ginocchio
+0,1468700223,Mar Apr 07 03:14:37 PDT 2009,NO_QUERY,nekoretro,"@Rammi Adoro Chinatown e le sue cose economiche, ma difficilmente comunico con i venditori, non parlano inglese"
+0,1468700445,Mar Apr 07 03:14:42 PDT 2009,NO_QUERY,manek43509,è stato piuttosto tentato da un Premier Projector su eBay... Ma poi ha pensato che un quinto set di batteria potesse essere un po' eccessivo...
+0,1468700450,Mar Apr 07 03:14:43 PDT 2009,NO_QUERY,supernovalee,"@tsisey no non c'ero, avrei voluto andarci però"
+0,1468701549,Mar Apr 07 03:15:05 PDT 2009,NO_QUERY,chinatheblack,Sveglia e non ho voglia di correre. Perché sono così pigra!!!???
+0,1468701674,Mar Apr 07 03:15:07 PDT 2009,NO_QUERY,chrisgarrett,"@loudmouthman sì, ho persino disattivato le regole e il blocco dello spam"
+0,1468701730,Mar Apr 07 03:15:08 PDT 2009,NO_QUERY,minxlj,"@AlexJReid - carino informarti durante l'installazione, eh? Stupido Msoft. Funziona sul Mac Intel ma non sul mio G5, peccato, è piuttosto bello"
+0,1468702127,Mar Apr 07 03:15:16 PDT 2009,NO_QUERY,NiteShok,"@sophiebenjamin È deludente, SCIENZA era oro"
+0,1468702163,Mar Apr 07 03:15:17 PDT 2009,NO_QUERY,DianaKC,vuole rivedere P!nk
+0,1468702351,Mar Apr 07 03:15:21 PDT 2009,NO_QUERY,gornelly,@tinchystryder io e i miei amici ti abbiamo aspettato 2 ore ieri sera e tu sei passato oltre! deluso tinchy...
+0,1468702376,Mar Apr 07 03:15:21 PDT 2009,NO_QUERY,crooneybrowne,@Vicki_Owen L'ho usato per la tesi di laurea molti anni fa ma non l'ho più usato da allora. Ricordo di averlo odiato ma penso di doverlo usare di nuovo!
+0,1468702856,Mar Apr 07 03:15:32 PDT 2009,NO_QUERY,alexfrance,"@rachaelsmart non tutti, gli esami sono così vicini. Fa schifo"
+0,1468702871,Mar Apr 07 03:15:32 PDT 2009,NO_QUERY,thedundies,Levi- Buongiorno mondo crudele. Perché le 6 del mattino devono arrivare così presto??? PERCHÉ???
+0,1468702934,Mar Apr 07 03:15:33 PDT 2009,NO_QUERY,doylemb,Fa schifo che Roundhay sia stato annullato, non vedevo l'ora di uscire
+0,1468702953,Mar Apr 07 03:15:33 PDT 2009,NO_QUERY,creacog,lavorando sulle parole accanto al pulsante di installazione di AIR per rassicurare l'utente che il dialog di installazione spaventoso va bene (il certificato non è sufficiente)
+0,1468703233,Mar Apr 07 03:15:41 PDT 2009,NO_QUERY,ninchy,"@alesa13 niente di nuovo qui, la solita roba noiosa, ma almeno c'è il sole...e la tequila! cosa c'è di nuovo con te?? divertiti :*"
+0,1468703293,Mar Apr 07 03:15:42 PDT 2009,NO_QUERY,stacijshelton,Ancora problemi con l'iPod, il disco sta memorizzando i dati in ordine sbagliato e continuo a ricevere un errore del disco... tutta la mia vita in musica...
+0,1468703349,Mar Apr 07 03:15:42 PDT 2009,NO_QUERY,bigbrownboots,stressato per il mio cagnolino che sembra avere lesioni spinali
+0,1468703732,Mar Apr 07 03:15:51 PDT 2009,NO_QUERY,lizzieladybird,grrr il mio segnale TV è davvero pessimo! non prende nemmeno un solo canale
+0,1468703910,Mar Apr 07 03:15:54 PDT 2009,NO_QUERY,Amberboo,ho davvero bisogno di fare qualcosa. ho guardato troppi Hannah Montana
+0,1468703921,Mar Apr 07 03:15:54 PDT 2009,NO_QUERY,Treesiepops,@chrisgedrim Hai offeso i miei gusti musicali
+0,1468703955,Mar Apr 07 03:15:55 PDT 2009,NO_QUERY,pukupi,"@nevaneva Trovo che Ekitan non dia i migliori risultati per molte ricerche, specialmente da/per gli aeroporti"
+0,1468704716,Mar Apr 07 03:16:10 PDT 2009,NO_QUERY,andrewbarnett,"@pinknantucket stranamente, no"
+0,1468704901,Mar Apr 07 03:16:13 PDT 2009,NO_QUERY,grace0,non ha nulla da fare oggi.
+0,1468705016,Mar Apr 07 03:16:15 PDT 2009,NO_QUERY,housenbaby,"@siximpossible sì, era cioccolato di Pasqua - sono un debole per un uovo di cioccolato vuoto, e c'era un negozio di sconti e..."
+0,1468705165,Mar Apr 07 03:16:18 PDT 2009,NO_QUERY,Jasminexoxo,voglio andare in vacanza
+0,1468705465,Mar Apr 07 03:16:24 PDT 2009,NO_QUERY,Maykats,@ChrisBaccam Oggi ho una giornata di lavoro di merda. Hai mai avuto un lavoro che amavi e ora odi? Non è bello
+0,1468705924,Mar Apr 07 03:16:35 PDT 2009,NO_QUERY,bigenya,"Difficoltà con GTalk. Chiudo la divisione per la giornata. Più tardi, a tutti."
+0,1468706260,Mar Apr 07 03:16:41 PDT 2009,NO_QUERY,Paul_Yates,è sfinito dopo aver lavorato di notte
+0,1468706478,Mar Apr 07 03:16:46 PDT 2009,NO_QUERY,iansaeri,saggio di 8 pagine
+0,1468706678,Mar Apr 07 03:16:51 PDT 2009,NO_QUERY,owenmeredith,ARGH! ATTACCO DI OCHE!!!
+0,1468706803,Mar Apr 07 03:16:53 PDT 2009,NO_QUERY,MzJay08,Le emicranie non sono divertenti. Voglio piangere
+0,1468707261,Mar Apr 07 03:17:03 PDT 2009,NO_QUERY,PiMC2CM,"@tylerwalters mi dispiace. Non sei l'unico stasera, se può consolarti."
+0,1468707722,Mar Apr 07 03:17:11 PDT 2009,NO_QUERY,Jane_Paris,L'anello dell'ombelico è caduto, devo sostituirlo al più presto
+0,1468707784,Mar Apr 07 03:17:13 PDT 2009,NO_QUERY,pomacious,chi lavora durante le vacanze?? io!!!
+0,1468708024,Mar Apr 07 03:17:18 PDT 2009,NO_QUERY,xedays,"@jeorgina Aww, Georgie! Quegli stivali però suonano da paura. XD"
+0,1468708142,Mar Apr 07 03:17:20 PDT 2009,NO_QUERY,mattelton,"@forfolkssake Non solo è imminente una risposta a quell'email, ma anche - shock! - quella seconda recensione che doveva essere consegnata ieri. Essere bloccati in casa è brutto"
+0,1468708593,Mar Apr 07 03:17:30 PDT 2009,NO_QUERY,LiveLoveBurnDie,"Haha, sono così annoiato... Gli amici sono fantastici, vero? Oh, ho rotto la mia TV..."
+0,1468708630,Mar Apr 07 03:17:31 PDT 2009,NO_QUERY,loris_sl,"@PamJH sì, più di 150 persone uccise e molte scomparse"
+0,1468708635,Mar Apr 07 03:17:31 PDT 2009,NO_QUERY,nicolethesilly,Mi sono tagliata accidentalmente i capelli
+0,1468708812,Mar Apr 07 03:17:35 PDT 2009,NO_QUERY,lowcarbondiary,@karmadillo No - male - molto male. Non ho ancora comprato un solo uovo di Pasqua, quindi sono in cattiva luce in famiglia e il cane mi mancano le sue passeggiate extra lunghe.
+0,1468708833,Mar Apr 07 03:17:36 PDT 2009,NO_QUERY,katemaher1,vorrei andare a Melbourne questo weekend per Harlot House a Tramp!
+0,1468709134,Mar Apr 07 03:17:41 PDT 2009,NO_QUERY,hannahrae91,gah... non mi permette di creare un myspace per la mia campagna di studi sociali...
+0,1468709217,Mar Apr 07 03:17:44 PDT 2009,NO_QUERY,chris_ailey,Si sta ancora chiedendo come sia riuscito a perdere a golf contro Dan ieri sera - ha sprecato un vantaggio di 7 colpi dopo le prime 9!
+0,1468709228,Mar Apr 07 03:17:44 PDT 2009,NO_QUERY,Greg_Collins,@trainhitsboy gusto eccellente come sempre e contesto perfetto. Non ho mai fatto una cover dei Cure in pubblico ma ho i Scorpions. malato.
+0,1468709689,Mar Apr 07 03:17:55 PDT 2009,NO_QUERY,FridaSkoglund,oggi non fa così caldo fuori
+0,1468710021,Mar Apr 07 03:18:02 PDT 2009,NO_QUERY,buffyc,@flurogoddess spero che la maggior parte sia d'accordo con te. una giornata preoccupantemente lunga, spero che tutto vada a tuo favore x
+0,1468710274,Mar Apr 07 03:18:07 PDT 2009,NO_QUERY,kay_stephen,"Colpito da infezione virale, irritato di ammalarmi."
+0,1468710564,Mar Apr 07 03:18:15 PDT 2009,NO_QUERY,Alresford,Ancora noiosa ricerca di lavoro..
+0,1468710622,Mar Apr 07 03:18:16 PDT 2009,NO_QUERY,sieli,@Nicolawills13 la chat è online? ora non su Freeview non va bene
+0,1468710815,Mar Apr 07 03:18:20 PDT 2009,NO_QUERY,HugoHirsh,"@yasminkaye Fallo!! Non essere scontroso però, questo rende internet un panda triste"
+0,1468710939,Mar Apr 07 03:18:23 PDT 2009,NO_QUERY,JadeyBoy,è tornata dalla lezione di guida e ora aspetta di andare a ripassare
+0,1468711209,Mar Apr 07 03:18:28 PDT 2009,NO_QUERY,davidwhite_,Sono così stanco e così in colpa
+0,1468711223,Mar Apr 07 03:18:29 PDT 2009,NO_QUERY,nurul_ayin,è a shisha con NJ e Syarif. heheheheh. usando il nuovo laptop di Syarif. LOL budak poly
+0,1468711334,Mar Apr 07 03:18:32 PDT 2009,NO_QUERY,BrookeAmanda,@andyclemmensen lol lo so, odio i vecchi computer, fanno schifo un sacco! :p
+0,1468711403,Mar Apr 07 03:18:33 PDT 2009,NO_QUERY,tanyaaR,"@Nappytabs aaaaah sono incredibilmente infastidito dal fatto che non sono riuscito a incontrarti e volevo che fosse il mio desiderio di compleanno. ahah awwwwwww."
+0,1468711525,Mar Apr 07 03:18:35 PDT 2009,NO_QUERY,GeorgiaTweets,ha il raffreddore
+0,1468711875,Mar Apr 07 03:18:42 PDT 2009,NO_QUERY,Hannah912,annoiata. Sam non può venire
+0,1468711976,Mar Apr 07 03:18:45 PDT 2009,NO_QUERY,wnylibrarian,@wgrzmarissa / Grande. Questo renderà il viaggio un'avventura lunga!
+0,1468712048,Mar Apr 07 03:18:46 PDT 2009,NO_QUERY,mivillephoto,"Cavolo, 4 ore e mezza di sonno non sono decisamente sufficienti. Sarà un'altra giornata dura."
+0,1468712761,Mar Apr 07 03:19:02 PDT 2009,NO_QUERY,troozers,@RobertCastley non riesco proprio a vederli da Barclaycard
+0,1468712838,Mar Apr 07 03:19:04 PDT 2009,NO_QUERY,lizcmv,è una signorina single
+0,1468713571,Mar Apr 07 03:19:19 PDT 2009,NO_QUERY,charleyjeffries,annoiato, devo prepararmi presto, ma non ho voglia
+0,1468713598,Mar Apr 07 03:19:20 PDT 2009,NO_QUERY,minduhhh,Niente coma di 12 ore oggi. Ho avuto un incubo che mi ha svegliato.
+0,1468713706,Mar Apr 07 03:19:23 PDT 2009,NO_QUERY,munchkin142,@mesteras immagino di non poterti chiedere di aiutarmi a trovare lenti a contatto blu allora
+0,1468713975,Mar Apr 07 03:19:30 PDT 2009,NO_QUERY,Rainnbow,@QueenSerena1 continua a provare a caricarlo, tesoro... si caricherà... a volte devi provare almeno una dozzina di volte... lo so
+0,1468713980,Mar Apr 07 03:19:29 PDT 2009,NO_QUERY,africamiranda,@Sixxjohn Sono la peggiore lo so, ma tornerò presto
+0,1468714009,Mar Apr 07 03:19:29 PDT 2009,NO_QUERY,ryanmcmurray,Mi perdo la partita di stasera a causa del lavoro. Non vedo l'ora che arrivi più tardi.
+0,1468714048,Mar Apr 07 03:19:31 PDT 2009,NO_QUERY,hannaaaa,"Ugh, ho bisogno di un iPod più grande. Seriamente"
+0,1468714181,Mar Apr 07 03:19:34 PDT 2009,NO_QUERY,TheKZA,@iCoopers Sei un provocatore. Ma grazie
+0,1468714644,Mar Apr 07 03:19:43 PDT 2009,NO_QUERY,sherylyulin,NAB non ha superato il taglio. Mi chiedo cosa farà ANZ adesso.
+0,1468717019,Mar Apr 07 03:20:30 PDT 2009,NO_QUERY,clairemims,@westy154 Anch'io. Non indosso completi. Sembro in maschera. Specialmente con le spalline.
+0,1468717242,Mar Apr 07 03:20:35 PDT 2009,NO_QUERY,wecandobiz,Nambu sta ricevendo buone recensioni come alternativa a TweetDeck - purtroppo solo per Mac
+0,1468717429,Mar Apr 07 03:20:39 PDT 2009,NO_QUERY,scorpfromhell,@pgreenbe Sono d'accordo. Ma spero che mi perdonerai gli occhiali color tecnologia mentre imparo i rudimenti della gestione e della strategia. Era in cima ai miei pensieri
+0,1468717728,Mar Apr 07 03:20:45 PDT 2009,NO_QUERY,LaurineG,12:20 non so cosa fare
+0,1468718005,Mar Apr 07 03:20:50 PDT 200_QUERY,BabaMzungu,Rimando il mio viaggio in Kenya. La mia ragazza va in Tanzania per un corso di formazione per alcune settimane
+0,1468718015,Mar Apr 07 03:20:50 PDT 2009,NO_QUERY,mpntod,Molto preoccupato di vedere un ciclista investito alla fine di North Walls. Spero vivamente che stia bene.
+0,1468718044,Mar Apr 07 03:20:51 PDT 2009,NO_QUERY,toddhenry,"Amanti di Philip Glass, avete visto questo? (+ è in concerto all'Università di Miami mercoledì prossimo ma io parlo da qualche parte http://bit.ly/9BdqX"
+0,1468718121,Mar Apr 07 03:20:53 PDT 2009,NO_QUERY,YaYaMarie,sveglia... non riesco a tornare a dormire e fuori nevica ancora.... mi chiedo se riuscirò ad andare da qualche parte oggi
+0,1468718783,Mar Apr 07 03:21:06 PDT 2009,NO_QUERY,Mehalison,"@africana oh noooo spero tu stia bene, cosa hai mangiato? &lt;3333"
+0,1468718825,Mar Apr 07 03:21:07 PDT 2009,NO_QUERY,zoolynegron,@dailycomplainer mi dispiace... se non dovessi pagare 450 per l'affitto, sarei a terra
+0,1468718845,Mar Apr 07 03:21:07 PDT 2009,NO_QUERY,phil6395,"Ho comprato un iPhone 3g su eBay circa 2 settimane fa, non è ancora arrivato"
+0,1468719001,Mar Apr 07 03:21:11 PDT 2009,NO_QUERY,josianna,@PD78 Ero gentile. Povero te... spero tu stia meglio presto
+0,1468719035,Mar Apr 07 03:21:11 PDT 2009,NO_QUERY,alohura,"@tbrd dannazione, Craig non può venire"
+0,1468719258,Mar Apr 07 03:21:15 PDT 2009,NO_QUERY,gingerspicez,Sono troppo malata per i miei farmaci per stare in piedi. FML
+0,1468719265,Mar Apr 07 03:21:15 PDT 2009,NO_QUERY,loris_sl,"@marshmallowpie per fortuna no, molta devastazione lì, situazione molto brutta"
+0,1468719334,Mar Apr 07 03:21:17 PDT 2009,NO_QUERY,emotionalpedant,@CassieFX Sei una causa persa, ragazza ;)
+0,1468719342,Mar Apr 07 03:21:17 PDT 2009,NO_QUERY,twinklybee,"@Tittch Grandi abbracci, spero che tutto vada pacificamente"
+0,1468719597,Mar Apr 07 03:21:23 PDT 2009,NO_QUERY,natinski,Ack tutti parlano di Krispy Kreme. E in questo momento ho mal di denti.
+0,1468719735,Mar Apr 07 03:21:26 PDT 2009,NO_QUERY,x_ohyeahhRIOT,"La cena è stata orribile. Ci è voluta un'eternità e sapeva di cibo per cani. Probabilmente era buona, ma odio il cibo."
+0,1468719875,Mar Apr 07 03:21:29 PDT 2009,NO_QUERY,SunshineeKiid,Compiti scolastici
+0,1468719976,Mar Apr 07 03:21:30 PDT 2009,NO_QUERY,elsieloo,@HarrietPenguin Molto gelosa! Lo vedrò più tardi quest'anno al MEN ma non sarà la stessa cosa di un piccolo concerto
+0,1468720205,Mar Apr 07 03:21:35 PDT 2009,NO_QUERY,hannahkin, gli AFI non saranno a Reading fino a domenica, fa schifo !!!!!!!!!
+0,1468720238,Mar Apr 07 03:21:36 PDT 2009,NO_QUERY,whatswhat_sian,@EmeraldDiscount Va bene. Non sono sicura delle previsioni però
+0,1468720738,Mar Apr 07 03:21:47 PDT 2009,NO_QUERY,craigcullum,@avalanchelynn habanero.... piccante piccante piccante.... difficile da trovare qui in Australia
+0,1468720797,Mar Apr 07 03:21:48 PDT 2009,NO_QUERY,mohdnajwan,cosa fare
+0,1468720998,Mar Apr 07 03:21:52 PDT 2009,NO_QUERY,jrawling,"Odio arrivare presto, mi rovina completamente il pranzo. Ho avuto fame per le ultime due ore - mancano ancora 40 minuti."
+0,1468721004,Mar Apr 07 03:21:52 PDT 2009,NO_QUERY,KatyHarwood01,"mmmm cupcake al cioccolato.... È tutta colpa di Lorraine Kelly, sai, lei e la sua alzatina piena di cupcake... Mi sto appassionando"
+0,1468721137,Mar Apr 07 03:21:55 PDT 2009,NO_QUERY,Pitstopbunny,"@edibow ahah, ho anche io il potere del muco... 1 settimana e il conto alla rovescia!"
+0,1468721162,Mar Apr 07 03:21:56 PDT 2009,NO_QUERY,Veronica501,Cosa succede al mondo? perché la gente decide di spararsi a vicenda? guardare le notizie è così deprimente
+0,1468721472,Mar Apr 07 03:22:02 PDT 2009,NO_QUERY,LanieFuller,@Ayla_F Non ne sono più così sicura
+0,1468721690,Mar Apr 07 03:22:07 PDT 2009,NO_QUERY,anhhung,"@doqtu84 troppo flash, e il guestbook è obsoleto"
+0,1468722125,Mar Apr 07 03:22:16 PDT 2009,NO_QUERY,far1983,troppi aggiornamenti su Twitter... non riesco a seguire tutto
+0,1468722446,Mar Apr 07 03:22:23 PDT 2009,NO_QUERY,itsbijay,"Sono in una situazione in cui devo scrivere le interne, ma dovrò scrivere DMW"
+0,1468722519,Mar Apr 07 03:22:25 PDT 2009,NO_QUERY,james_angus,vuole andare in città ma non ha voglia di camminare da solo
+0,1468722783,Mar Apr 07 03:22:30 PDT 2009,NO_QUERY,barker_g,Ho un mal di gola davvero forte. Vado a vedere se abbiamo yogurt.
+0,1468722966,Mar Apr 07 03:22:34 PDT 2009,NO_QUERY,themadcatlady,@LPetersson per favore FOTO! Non mi iscriverò a Facebook solo per vedere le foto. Mettile su Flickr o qualcosa del genere!
+0,1468723016,Mar Apr 07 03:22:35 PDT 2009,NO_QUERY,KING5150sWORLD,Buongiorno al lavoro, non voglio esserci, fanculo un altro giorno, un altro dollaro!!!
+0,1468723057,Mar Apr 07 03:22:37 PDT 2009,NO_QUERY,ideasmithy,@mokshjuneja Un bel film (in anteprima) mi tirerebbe su il morale!
+0,1468723121,Mar Apr 07 03:22:37 PDT 2009,NO_QUERY,NBC4TODAY,@DonnaNBC4 c'erano in realtà 2 coperte. Fuori controllo! Povero ragazzo
+0,1468723293,Mar Apr 07 03:22:41 PDT 2009,NO_QUERY,kelseyhornerXD,ha mal di testa
+0,1468723369,Mar Apr 07 03:22:43 PDT 2009,NO_QUERY,addiiee,@ZeenaV Sims 2 si è bloccato di nuovo.
+0,1468723563,Mar Apr 07 03:22:47 PDT 2009,NO_QUERY,coZZ,"@spaulds1 Ehi, sto bene grazie, ho appena pranzato, hehe, qui è mezzogiorno (Belgio) e piove"
+0,1468724195,Mar Apr 07 03:23:02 PDT 2009,NO_QUERY,meluhnee,"@fallbrooke Eric, fatti un Twitter! Lol e mi dispiace per i tuoi denti... perché li togli? I dentisti farebbero di tutto per i soldi...."
+0,1468724247,Mar Apr 07 03:23:02 PDT 2009,NO_QUERY,LizPata,i miei pensieri e le mie preghiere vanno alle persone colpite dal terremoto, Italia
+0,1468724491,Mar Apr 07 03:23:07 PDT 2009,NO_QUERY,CSINYV,Ho sentito dire che qualcuno verrà ucciso in CSI NY!!! NOOOOOO così triste
+0,1468724501,Mar Apr 07 03:23:07 PDT 2009,NO_QUERY,zomgzjessjames,mangiando una cena fredda
+0,1468724667,Mar Apr 07 03:23:11 PDT 2009,NO_QUERY,pezholio,"@philipjohn Lo so cosa intendi, non avevamo il menu a tendina all'inizio, ma stavamo ricevendo lamentele. Non riesco a vincere"
+0,1468724693,Mar Apr 07 03:23:12 PDT 2009,NO_QUERY,KGM28,@Schofe Mi dispiace tanto per le donne che hanno perso il marito a causa di quei disgustosi teppisti! Sentire la sua storia mi ha fatto piangere
+0,1468724766,Mar Apr 07 03:23:14 PDT 2009,NO_QUERY,sebby_peek,"si irrita un po' senza un motivo apparente, vado a fare i compiti di religione, poi un po' di inglese D:"
+0,1468724869,Mar Apr 07 03:23:15 PDT 2009,NO_QUERY,Mysticviolet1,"ANCORA a riconciliare i maledetti depositi chiave, desiderando spiagge calde e mari blu, io e il mio bambino seduti sotto palme! Non succederà!"
+0,1468725437,Mar Apr 07 03:23:29 PDT 2009,NO_QUERY,itsbijay,Non sono dell'umore giusto per scrivere le interne ma dovrò scrivere DMW domani
+0,1468725461,Mar Apr 07 03:23:30 PDT 2009,NO_QUERY,debbieseraphina,@BigB3n anche molte imitazioni!
+0,1468725657,Mar Apr 07 03:23:32 PDT 2009,NO_QUERY,MunkyMunch,@MagicBartender Ehi. Aww mi è mancato PS. Non ho visto il tuo tweet fino ad ora.
+0,1468725699,Mar Apr 07 03:23:33 PDT 2009,NO_QUERY,Survivor_Zero,@weblivz Che schifo. Avrei chiesto un panino al formaggio dalla sua enorme scorta
+0,1468725916,Mar Apr 07 03:23:38 PDT 2009,NO_QUERY,verithanti,"è mattina. troppo presto. troppo poco sonno. mi trascino in palestra, e non ho il mio lettore mp3. sarà un disastro."
+0,1468726013,Mar Apr 07 03:23:40 PDT 2009,NO_QUERY,teamheidi,@heidimontag non vedo l'ora che esca il tuo album.. evviva! ma lo voglio subito, quando uscirà?
+0,1468726114,Mar Apr 07 03:23:43 PDT 2009,NO_QUERY,ila,"seguendo alcuni account Twitter che riportano sui terremoti. la situazione in Abruzzo, Italia, non è buona. 180 morti. foto http://ow.ly/2fRj"
+0,1468726834,Mar Apr 07 03:23:58 PDT 2009,NO_QUERY,BrandyWandLover,"ho bisogno di un tweet migliore da Russ, il mio era solo una risposta a una domanda e non VERO amore"
+0,1468726882,Mar Apr 07 03:23:59 PDT 2009,NO_QUERY,SelinaRealm,Devo prendere appuntamento per l'ecografia. Il medico non l'ha rilevato fino agli esami del sangue perché normalmente è un problema per le persone obese... e beh, io non lo sono.....
+0,1468727054,Mar Apr 07 03:24:03 PDT 2009,NO_QUERY,queeniecoop,sta cercando lavoro di nuovo... non vuole ma è troppo infelice al lavoro. ci sta da troppo tempo e ha bisogno di andarsene e fare qualcosa che le piace.
+0,1468727367,Mar Apr 07 03:24:09 PDT 2009,NO_QUERY,Sid_eras,Oh no, il tempo è peggiorato. Previsti 3m di onde per domani. Questo potrebbe causare un vero problema, speriamo che la previsione sia sbagliata
+0,1468728565,Mar Apr 07 03:24:35 PDT 2009,NO_QUERY,Hen54321,Sono responsabile di un'estrema distruzione di alberi
+0,1468728568,Mar Apr 07 03:24:35 PDT 2009,NO_QUERY,TheMadMelonMan,"vado a giocare a badminton, poi a portare a spasso il cane del nonno, poi di nuovo a ripassare!!!!"
+0,1468728603,Mar Apr 07 03:24:36 PDT 2009,NO_QUERY,BW101,@KankzXD Le mie cuffie sono morte, mi mancano. Gli auricolari non sono abbastanza buoni!
+0,1468728671,Mar Apr 07 03:24:37 PDT 2009,NO_QUERY,samuelpound,il quiz del retro bar è esilarante. l'ho fatto due volte e sono arrivato ultimo entrambe le volte. il ragazzo dietro il bancone mi ha dato il suo numero!
+01468728691,Mar Apr 07 03:24:37 PDT 2009,NO_QUERY,krist0ph3r,@Shadez err la tempesta è finita. non sono sicuro chi sia stato più devastato
+0,1468729059,Mar Apr 07 03:24:45 PDT 2009,NO_QUERY,benfox,"@quartzgirl6 vai a letto, vorrei poterlo fare, sono ancora al lavoro"
+0,1468729136,Mar Apr 07 03:24:47 PDT 2009,NO_QUERY,acroyear2,il lavoro è come ESTRARRE I DENTI oggi
+0,1468732440,Mar Apr 07 03:25:51 PDT 2009,NO_QUERY,princessBARAKAT,@bradiewebbstack haha dannazione ora voglio le jelly beans
+0,1468732636,Mar Apr 07 03:25:56 PDT 2009,NO_QUERY,jgoreham,"Perché tutto mi morde? Prima il criceto, ora il gatto"
+0,1468732651,Mar Apr 07 03:25:56 PDT 2009,NO_QUERY,SarahSugarM,Non riesco a usare Twitter con il mio telefono
+0,1468732806,Mar Apr 07 03:26:00 PDT 2009,NO_QUERY,Mitchell186,"@lucy_moore93 AhHAH lol, ignorare decisamente non funziona.. perché alla fine ti infastidiscono solo di più, beh io l'ho scoperto comunque"
+0,1468733143,Mar Apr 07 03:26:05 PDT 2009,NO_QUERY,AAPRaquel,È deprimente iniziare la giornata sapendo che non tornerai a casa prima di domani sera.
+0,1468733241,Mar Apr 07 03:26:07 PDT 2009,NO_QUERY,dgiffin,La giornata è frenetica - sono sommerso da un sacco di richieste di lavoro tutte contemporaneamente - sto finendo le mani
+0,1468733477,Mar Apr 07 03:26:12 PDT 2009,NO_QUERY,cjkiwigirl,"Ho avuto 2 giorni di controllo TV, e non c'è quasi niente che valga la pena di guardare"
+0,1468733785,Mar Apr 07 03:26:19 PDT 2009,NO_QUERY,mister_peterman,"@mellalicious haha no, non è qui purtroppo. Questa è l'unica persona in casa che non è cool."
+0,1468734273,Mar Apr 07 03:26:28 PDT 2009,NO_QUERY,mattmagic,"@miketually @DanLees Vorrei che la gente smettesse di fare cose stupide come quella! Io lascio il mio acceso 365 giorni, credo che questo dimostri il contrario"
+0,1468734552,Mar Apr 07 03:26:33 PDT 2009,NO_QUERY,D_Boon_147,Inizio seriamente a odiare tutta questa routine di "alzarsi e scrivere". Vorrei che i saggi fossero finiti
+0,1468734651,Mar Apr 07 03:26:35 PDT 2009,NO_QUERY,Virgil83,"@jobeaz dannazione, mi dispiace di averlo perso... Ma sarò a Brisbane fino a giovedì sera"
+0,1468734951,Mar Apr 07 03:26:41 PDT 2009,NO_QUERY,DeenaFay,P.s. @MichaelHenry mi ha inondato di benzina
+0,1468735181,Mar Apr 07 03:26:46 PDT 2009,NO_QUERY,redsheep,@mikefoong Troppo fastidioso avere due account Twitter.
+0,1468735195,Mar Apr 07 03:26:47 PDT 2009,NO_QUERY,gabbyeight,Voglio un nuovo portatile. HP TX2000 è il massimo. :| Chi sa quanto costa? Scrivimi: gabbehhramos@yahoo.com
+0,1468735225,Mar Apr 07 03:26:47 PDT 2009,NO_QUERY,Fifi1976,Credo di aver bisogno di cioccolato o torta o qualcosa per cercare di uscire da questo umore schifoso
+0,1468735245,Mar Apr 07 03:26:48 PDT 2009,NO_QUERY,felicecuore,"Wow, lo dirò in modo sarcastico, ""Amico, spacchi"". Sono inorridito, ma in qualche modo me lo aspettavo."
+0,1468735485,Mar Apr 07 03:26:52 PDT 2009,NO_QUERY,natewilde,vado a lavorare.
+0,1468735614,Mar Apr 07 03:26:54 PDT 2009,NO_QUERY,mwiththeat,Bloccato in una gabbia di Faraday oggi
+0,1468735665,Mar Apr 07 03:26:56 PDT 2009,NO_QUERY,bekibutton,"vorrei poter pensare a qualche consiglio per la raccolta fondi legato a JustGiving, anche se la raccolta fondi non sta andando benissimo, a dire il vero. Sono molto depressa"
+0,1468735896,Mar Apr 07 03:27:00 PDT 2009,NO_QUERY,iterations,"@trendbuero Ehi, è stato veloce! Complimenti ;-) L'URL tinyURL che usi è purtroppo rotto"
+0,1468735910,Mar Apr 07 03:27:01 PDT 2009,NO_QUERY,PinkTribble,"@mcjo_standfree Sì, gli taglieranno una narice!! :O Povero piccolo amore, non migliorerà il suo aspetto!"
+0,1468736069,Mar Apr 07 03:27:03 PDT 2009,NO_QUERY,thelongwayround,@Narelle_NZ ahi, possono essere un problema, le prendo al lavoro con i tag delle borse e le carte d'imbarco a volte...
+0,1468736527,Mar Apr 07 03:27:12 PDT 2009,NO_QUERY,gemmawitton,Nessun segno della macchina fotografica nella posta di oggi... spero che arrivi prima del lungo weekend
+0,1468736706,Mar Apr 07 03:27:16 PDT 2009,NO_QUERY,JoePetrillo,Cercando di trovare l'energia per alzarmi dal letto per prepararmi per il lavoro. Ho dormito solo circa 3 ore ieri sera.
+0,1468736961,Mar Apr 07 03:27:23 PDT 2009,NO_QUERY,gerbery,Ako sa lahko a lacno dostat ku knihe Normana Fairclougha Analysing Discourse?
+0,1468737324,Mar Apr 07 03:27:30 PDT 2009,NO_QUERY,Hawthorne_UK,Ho fame - e ho solo un sacchetto di patatine. Non vedo l'ora della cena stasera.
+0,1468737578,Mar Apr 07 03:27:36 PDT 2009,NO_QUERY,kristywisty,@tracymacy grazie, tesoro. Il mio appuntamento è solo alle 14, ma dobbiamo viaggiare per un'ora per arrivarci. Spero ti senta meglio presto
+0,1468737764,Mar Apr 07 03:27:41 PDT 2009,NO_QUERY,MissWyn,perché la gente è così crudele e maleducata
+0,1468737844,Mar Apr 07 03:27:42 PDT 2009,NO_QUERY,tojara,"non molto, in vena di weekend però, anche se il tempo non sembra ottimo per sab/dom"
+0,1468737876,Mar Apr 07 03:27:43 PDT 2009,NO_QUERY,zaram,è abbastanza sicura di essere malata!
+0,1468737906,Mar Apr 07 03:27:43 PDT 2009,NO_QUERY,Timboski,Niente affatto! http://tinyurl.com/3xzzcb Come mai non ne ho mai sentito parlare prima!!! Forse è stato cancellato, spaventato solo dal video.
+0,1468738213,Mar Apr 07 03:27:49 PDT 2009,NO_QUERY,LadyPaulo,Mi sono rigirata tutta la notte perché mi fa maledettamente male la schiena. Ahi!
+0,1468738400,Mar Apr 07 03:27:54 PDT 2009,NO_QUERY,johannafogel,sono malata a casa da sola
+0,1468738622,Mar Apr 07 03:27:58 PDT 2009,NO_QUERY,marcusmacinnes,@jimmybc Il problema è che sono ancora con loro
+0,1468738774,Mar Apr 07 03:28:02 PDT 2009,NO_QUERY,EXECUTIVESTEVE,"@pezholio ah, anch'io; ho avuto il piacere di far esplodere un pacchetto di involtini di vite ripieni su di me, però"
+0,1468738947,Mar Apr 07 03:28:06 PDT 2009,NO_QUERY,dustybree,mi sento ispirata a fare diverse cose... troppo impegnata per farle però, ho bisogno di uno sfogo creativo.
+0,1468739300,Mar Apr 07 03:28:14 PDT 2009,NO_QUERY,DivasMistress,"@nikkiwoods penso che oggi sia un fallimento, siamo troppo in ritardo, abbiamo dormito troppo. Ma posso comunque intrattenerti senza le perversioni lol"
+0,1468739533,Mar Apr 07 03:28:18 PDT 2009,NO_QUERY,ctswestcork,Il ragazzo con il laptop non si è fatto vedere. Che cazzo di spreco di tempo
+0,1468739591,Mar Apr 07 03:28:19 PDT 2009,NO_QUERY,InterSimi,Ho ordinato la nostra nuova lavatrice per sostituire quella rotta. Altri 350 sterline in meno, però è una da 8 kg!
+0,1468739815,Mar Apr 07 03:28:23 PDT 2009,NO_QUERY,blckshpby,i torrent ci mettono un'eternità. perché è così lento? fanculo YouTube per aver interrotto la mia visione della TV.
+0,1468739830,Mar Apr 07 03:28:24 PDT 2009,NO_QUERY,cravenjade,"@jamieharrop Sei un fan di Ross Noble? Una volta mi ha preso in giro per UN INTERO spettacolo qui! Ero la 'Awakeners Girl' secondo lui"
+0,1468739845,Mar Apr 07 03:28:24 PDT 2009,NO_QUERY,Sonjahaha,mi fa male dappertutto...
+0,1468740004,Mar Apr 07 03:28:27 PDT 2009,NO_QUERY,melizagail,"ha sprecato la giornata a non fare nulla! Mamma mia, ora sono in ritardo"
+0,1468740308,Mar Apr 07 03:28:33 PDT 2009,NO_QUERY,AlissaK,Sembra inverno.
+0,1468740658,Mar Apr 07 03:28:41 PDT 2009,NO_QUERY,reeza78,"@KimmaJ non va bene Kimma... che tipo di malattia senti?"
+0,1468740713,Mar Apr 07 03:28:42 PDT 2009,NO_QUERY,khairudinAM,ancora in ufficio
+0,1468740815,Mar Apr 07 03:28:44 PDT 2009,NO_QUERY,HootieMcBoob,Oh mio Dio, sono in un dolore così grande... vado a sdraiarmi e a prendere altro ossicodone.
+0,1468740843,Mar Apr 07 03:28:45 PDT 2009,NO_QUERY,mressler,Chi si alza alle 6 del mattino?! La mia insegnante-moglie E io a quanto pare per lavorare all'applicazione AlphaLabs di StatEasy! Evviva!
+0,1468740921,Mar Apr 07 03:28:47 PDT 2009,NO_QUERY,xXxC8LINxXx,"Non mi piace immensamente questo, rido al fatto che so scrivere immensamente... grazie Lauren haha"
+0,1468741105,Mar Apr 07 03:28:51 PDT 2009,NO_QUERY,TylerDurdan,@ChristyDH L'ho visto in TV all'epoca e sono rimasto deluso dalla performance di "Some Riot" rispetto al disco originale
+0,1468741295,Mar Apr 07 03:28:54 PDT 2009,NO_QUERY,CazxCandy,@Tamarzipan non so... solo la carta di mia mamma... mia mamma non me l'ha comprata....
+0,1468741581,Mar Apr 07 03:29:00 PDT 2009,NO_QUERY,feelfreetosayno,sono al lavoro... e sono triste perché pioverà quando uscirò...
+0,1468741825,Mar Apr 07 03:29:05 PDT 2009,NO_QUERY,perkychica,la mia ultima notte in Giappone... mi mancherà tanto
+0,1468741977,Mar Apr 07 03:29:09 PDT 2009,NO_QUERY,monalee10,La famiglia ha portato Rumzi a Spring Creek a Mansfield per il suo 32° compleanno! Non trovo gli occhiali per leggere.
+0,1468742273,Mar Apr 07 03:29:14 PDT 2009,NO_QUERY,fridayman,"che fantastico fine settimana, ho fatto un po' di idraulica, non ha funzionato, ho montato un pannello touch, l'ho rotto"
+0,1468742540,Mar Apr 07 03:29:20 PDT 2009,NO_QUERY,noiselet,Dov'è la mia posta?
+0,1468742757,Mar Apr 07 03:29:25 PDT 2009,NO_QUERY,radilicious,innocente non così innocente
+0,1468742799,Mar Apr 07 03:29:25 PDT 2009,NO_QUERY,ahceedehruh,vuole gtalk sul mio telefono.. ahaha.
+0,1468743122,Mar Apr 07 03:29:32 PDT 2009,NO_QUERY,johnnyjeffrey,è così tardi oggi. Non uscirò dall'ufficio prima di mezzanotte http://plurk.com/p/n14tz
+0,1468743130,Mar Apr 07 03:29:32 PDT 2009,NO_QUERY,xlad,@Sheamus e non fanno il 3D
+0,1468743315,Mar Apr 07 03:29:36 PDT 2009,NO_QUERY,zebedeejane,@Schofe Chiedetegli perché nessuno mi segue...LOL..Mi sento molto non amata e sola
+0,1468743377,Mar Apr 07 03:29:37 PDT 2009,NO_QUERY,rumpledoodles,@klariza è fantastico! Mi piace avere cose a cui guardare, ma non ho molto nel prossimo futuro
+0,1468743497,Mar Apr 07 03:29:39 PDT 2009,NO_QUERY,ilovedricoll,così maledettamente geloso di Sarah. BRADIE WEBB LE STAVA PARLANDO!
+0,1468743659,Mar Apr 07 03:29:43 PDT 2009,NO_QUERY,Funktipus,"@plaguebringer TI AMMAZZERÒ CON LA BACCHETTA. Mi fa venire voglia di creare un mago rofl. Inoltre, http://www.youtube.com/watch?v=XclDFI02X-Q"
+0,1468743706,Mar Apr 07 03:29:44 PDT 2009,NO_QUERY,crissywatt,2 giorni ancora per dormire quanto voglio. Cavolo, questi 2 giorni passeranno lentamente.
+0,1468743733,Mar Apr 07 03:29:44 PDT 2009,NO_QUERY,sheisgiovanna,è ora di scuola, ugh.
+0,1468743735,Mar Apr 07 03:29:44 PDT 2009,NO_QUERY,shakeandbake32,In realtà il mio telefono doveva essere in silenzioso ma ha scelto di non esserlo. Stupido telefono
+0,1468747467,Mar Apr 07 03:30:54 PDT 2009,NO_QUERY,lukeii,@aussie_ali Aww - mi spezzi il cuore
+0,1468747469,Mar Apr 07 03:30:54 PDT 2009,NO_QUERY,vgtero,"Sarò nel volo infernale, in fondo alla classe economica, con tanti bambini urlanti sotto i 5 anni."
+0,1468747489,Mar Apr 07 03:30:56 PDT 2009,NO_QUERY,starsnostars,ho mangiato tutte le caramelle gommose alla frutta.
+0,1468747503,Mar Apr 07 03:30:55 PDT 2009,NO_QUERY,jeremy_ellis,@nickynocky Sì, ti hanno fregato in tutti i modi
+0,1468747829,Mar Apr 07 03:31:02 PDT 2009,NO_QUERY,leagian,"@ginoboi oh.. ti ODIO per aver visto Slumdog così presto, io devo aspettare il giorno in cui uscirà"
+0,1468748001,Mar Apr 07 03:31:06 PDT 2009,NO_QUERY,robschmob,"@JohnPeel ahah sì, quello è il massimo che l'annuncio poteva fare!! questo è l'inferno, erano dannatamente brillanti, la folla però era patetica"
+0,1468748109,Mar Apr 07 03:31:07 PDT 2009,NO_QUERY,russmaxdesign,"@ivyclark - il nome era ironico quando è stato usato per la prima volta (2/10/04), ed è rimasto (ora più di 5 anni dopo). Naturalmente, tutta l'ironia si è persa nel tempo"
+0,1468748700,Mar Apr 07 03:31:19 PDT 2009,NO_QUERY,FotoWala,Trovo il mio libro nella sezione dei libri di cucina e non nella sezione fotografica perché ha alcune ricette. Non sono felice
+0,1468748726,Mar Apr 07 03:31:20 PDT 2009,NO_QUERY,tomlau,@richiejape Possiamo aspettarci altro di quel linguaggio SMS quando arriverà la tassa sugli SMS
+0,1468748835,Mar Apr 07 03:31:21 PDT 2009,NO_QUERY,aussie_ali,@MissNixs Lol. Sembra che la tua ricerca non abbia avuto successo
+0,1468749381,Mar Apr 07 03:31:33 PDT 2009,NO_QUERY,Czodzz,*sbadiglio* è ora di prepararsi per la scuola
+0,1468749404,Mar Apr 07 03:31:32 PDT 2009,NO_QUERY,alexjonline,Mi chiedo quanto sarà più caldo Chennai a maggio!
+0,1468749525,Mar Apr 07 03:31:36 PDT 2009,NO_QUERY,laura_27,Non lasciare la tua auto incustodita a Carrick - i coglioni ti romperanno gli specchietti retrovisori. *SOSPIRO* altre riparazioni all'auto
+0,1468749636,Mar Apr 07 03:31:37 PDT 2009,NO_QUERY,RobertCustons,Sorpreso dalla nuova canzone di Eminem... non credo che avrebbe dovuto puntare di nuovo sulla commedia, forse mi piacerà
+0,1468750133,Mar Apr 07 03:31:48 PDT 2009,NO_QUERY,myazhax,"oh cavolo, capelli disordinati"
+0,1468750201,Mar Apr 07 03:31:50 PDT 2009,NO_QUERY,cootiesncreme,Credo sia morto
+0,1468750228,Mar Apr 07 03:31:50 PDT 2009,NO_QUERY,Sophieeexo,pulizie di primavera oggi
+0,1468750319,Mar Apr 07 03:31:52 PDT 2009,NO_QUERY,jdean81486,Kevin ha improvvisamente realizzato che tutti i suoi CD non sono più dove dovrebbero essere! Dove diavolo sono finiti?!?
+0,1468750403,Mar Apr 07 03:31:54 PDT 2009,NO_QUERY,whatsupsarah,"NEVE? ugh vattene, mi manca il calore."
+0,1468750406,Mar Apr 07 03:31:55 PDT 2009,NO_QUERY,bovinemammal,"@danfairs evviva Dan, è per uno sviluppatore Notes all'università. 3 ore di pausa pranzo adesso"
+0,1468750546,Mar Apr 07 03:31:57 PDT 2009,NO_QUERY,devanp16,la mia schiena mi fa così male! povero me! (questa è la parte in cui mi dai tanta solidarietà)
+0,1468750648,Mar Apr 07 03:31:59 PDT 2009,NO_QUERY,Loulou359,è seriamente spaventato... confusione!
+0,1468750810,Mar Apr 07 03:32:03 PDT 2009,NO_QUERY,addiiee,@margoble MI MANCHI!
+0,1468750888,Mar Apr 07 03:32:04 PDT 2009,NO_QUERY,realnowhereman,@BonjourVous sì, lo so... a volte mi sento come se il mondo stesse crollando
+0,1468751105,Mar Apr 07 03:32:08 PDT 2009,NO_QUERY,MileyCyrus,"trucco e parrucco, perché Madre Natura mi odia? mi fa male la pancia, mi sto addormentando, e piove!!! sono esausta,"
+0,1468751242,Mar Apr 07 03:32:11 PDT 2009,NO_QUERY,smallbecca,si sente ancora quasi del tutto sopraffatta da un desiderio scomodo di vendetta rapida e violenta
+0,1468751286,Mar Apr 07 03:32:11 PDT 2009,NO_QUERY,Allypattern,va al lavoro. Ancora tre giorni
+0,1468751436,Mar Apr 07 03:32:14 PDT 2009,NO_QUERY,jxriz,Oggi la scuola è stata davvero noiosa. Le 18:31, speravo fossero le 15 per poter usare il laptop più a lungo... Il tempo passa davvero velocemente.
+0,1468751855,Mar Apr 07 03:32:22 PDT 2009,NO_QUERY,beccbabe,@bradiewebbstack vieni a Perth? presto. per favore.
+0,1468751876,Mar Apr 07 03:32:23 PDT 2009,NO_QUERY,MissPippa,"Sto cercando le mie pastiglie Adios e non riesco a trovarle da nessuna parte. Devo uscire, ma non ho voglia."
+0,1468751940,Mar Apr 07 03:32:25 PDT 2009,NO_QUERY,DarrylKC,"@jphni20 Grazie, ce l'ho anch'io - non ho avuto tempo di guardarlo però. Sembra che dovrei!"
+0,1468752003,Mar Apr 07 03:32:26 PDT 2009,NO_QUERY,ABnetGIRL,Keri Hilson - Tell Him The Truth.. Mi fa piangere
+0,1468752240,Mar Apr 07 03:32:30 PDT 2009,NO_QUERY,JessicaWylde,Non riesco a scrollarmi di dosso i formicolii dalle mani
+0,1468753262,Mar Apr 07 03:32:52 PDT 2009,NO_QUERY,realnowhereman,@BonjourVous e è curioso come guardare le notizie possa deprimerti
+0,1468753681,Mar Apr 07 03:33:00 PDT 2009,NO_QUERY,xCHICKAMUNGUSx,Sono migliorato a Vegas 2 oggi! E mi sono divertito un mondo con tutti stasera! Fa schifo che quella ragazza abbia sparlato alla fine, vabbè
+0,1468753824,Mar Apr 07 03:33:03 PDT 2009,NO_QUERY,Lalouba,Si è svegliata tardi e ha sprecato parte della giornata!
+0,1468753924,Mar Apr 07 03:33:04 PDT 2009,NO_QUERY,paulinefraser,appena tornata dall'Asda con la fidanzata di mio figlio. andrò a trovare papà in ospedale più tardi
+0,1468753942,Mar Apr 07 03:33:05 PDT 2009,NO_QUERY,arjunvarma,Sommerso dal lavoro...
+0,1468753974,Mar Apr 07 03:33:06 PDT 2009,NO_QUERY,KWelkeBrom,@Mandy_Howerton aw, non va bene. Dallas è un pollice in su però. Vivevo ad Austin. Mi manca così tanto.
+0,1468754163,Mar Apr 07 03:33:09 PDT 2009,NO_QUERY,random_bloke,"Cavolo! oggi sarà il giorno più lungo della storia, sono seduto qui,"
+0,1468754191,Mar Apr 07 03:33:10 PDT 2009,NO_QUERY,jonoabroad,per quanto TPG mi disgusti, sono maledettamente economici
+0,1468754335,Mar Apr 07 03:33:13 PDT 2009,NO_QUERY,StereoSystem,"Miley Cyrus dice: trucco e parrucco, perché Madre Natura mi odia? mi fa male la pancia, mi sto addormentando, e piove!!! sono esausta..."
+0,1468754376,Mar Apr 07 03:33:14 PDT 2009,NO_QUERY,jacobs_mcr,Ho passato un'altra notte fantastica con Tyler :* ora vado al lavoro .... devo preparare il caffè per i mattinieri
+0,1468754464,Mar Apr 07 03:33:15 PDT 2009,NO_QUERY,danni_jones,dice che le canzoni dei Busted mi fanno venire voglia di riprendere la chitarra. Che peccato per le corde rotte. http://plurk.com/p/n15j4
+0,1468754561,Mar Apr 07 03:33:17 PDT 2009,NO_QUERY,ikaos,E ho perso il mio prossimo turno di tennis
+0,1468754941,Mar Apr 07 03:33:24 PDT 2009,NO_QUERY,developeruk,decorando, poi Tesco (poi forse COD4
+0,1468755043,Mar Apr 07 03:33:26 PDT 2009,NO_QUERY,The_Kingfisher,FFS. la macchina non si avviava. DI NUOVO. Quindi non posso andare dal medico adesso, brutti momenti
+0,1468755490,Mar Apr 07 03:33:36 PDT 2009,NO_QUERY,IvoireofDTP,Sveglia e pronta per allenarmi ma l'allenatore ha chiamato e ha detto che ci incontreremo stasera. Pensavo di avere un giorno libero. Mi sbagliavo
+0,1468755587,Mar Apr 07 03:33:38 PDT 2009,NO_QUERY,celebritymound,@Inertia09 e sono pronto per la giornata
+0,1468755631,Mar Apr 07 03:33:39 PDT 2009,NO_QUERY,Geekpie,"@tangledtara ahaha che bella idea, penso di aver bisogno di fare un po' di esercizio fisico e smettere di mangiare così tanti dolci, niente più dip-dab sabato"
+0,1468755763,Mar Apr 07 03:33:42 PDT 2009,NO_QUERY,moopf,"Bah, infastidito di non poter andare a correre con il mio sterno fratturato. Probabilmente altre 2 settimane prima di poterlo fare. Mi perderò la prossima corsa in montagna"
+0,1468755768,Mar Apr 07 03:33:42 PDT 2009,NO_QUERY,rachellitta,@kymhuynh ahaha sì, ho riso fino alla fine quando si è ammalato
+0,1468755779,Mar Apr 07 03:33:42 PDT 2009,NO_QUERY,rpecknold,Sto diventando sordo all'orecchio destro. Troppe raffiche di feedback durante i soundcheck. Con gli auricolari
+0,1468755988,Mar Apr 07 03:33:46 PDT 2009,NO_QUERY,johannamaciver,ho finalmente rotto la mia cyclette stamattina, ho urgentemente bisogno di una nuova... spero di prenderne una all'ora di pranzo!
+0,1468756000,Mar Apr 07 03:33:46 PDT 2009,NO_QUERY,djgraham,63,15 sterline per un braccio tergicristallo posteriore per la nostra auto. Questo non include nemmeno la spazzola del tergicristallo...
+0,1468756463,Mar Apr 07 03:33:56 PDT 2009,NO_QUERY,lkm1989,ha il raffreddore
+0,1468756761,Mar Apr 07 03:34:03 PDT 2009,NO_QUERY,Viodyna,Eeek! Sembra che stia cercando un nuovo lavoro. Mi hanno appena detto che il mio ufficio sta chiudendo
+0,1468757302,Mar Apr 07 03:34:12 PDT 2009,NO_QUERY,samamie,così stanca ma devo fare i compiti faccina triste
+0,1468757347,Mar Apr 07 03:34:14 PDT 2009,NO_QUERY,stickypop,"@squink Oh sì, questo significa che arriverò presto. >_> Non soffrivo mai, ma ogni anno peggiora"
+0,1468757576,Mar Apr 07 03:34:18 PDT 2009,NO_QUERY,Erinkyan,sta lavorando. Lee mi sta costringendo. Che noia. Il grande papà cattivo viene molestato da un bambino carino e dolce. Mandagli cose blu per distrarlo.
+0,1468757953,Mar Apr 07 03:34:26 PDT 2009,NO_QUERY,YasminHughes,Vado a fare un po' di ripasso tanto necessario, vorrei che uscisse il sole!!!...
+0,1468757959,Mar Apr 07 03:34:26 PDT 2009,NO_QUERY,beccbabe,la batteria del mouse è rotta. odio usare il touchpad del laptop.
+0,1468758196,Mar Apr 07 03:34:30 PDT 2009,NO_QUERY,fffour,@1indienation Vorrei, per ora lo leggerò come Jane Austen voleva che fosse letta la sua storia di zombie. Vecchia carta e inchiostro
+0,1468758512,Mar Apr 07 03:34:37 PDT 2009,NO_QUERY,_CBearT_,Ho passato la migliore notte a Letterfrack! ;) lol ora soffro, grazie a Dio Richard sta facendo i pancake!!! Più tardi a Galway city x
+0,1468758532,Mar Apr 07 03:34:38 PDT 2009,NO_QUERY,liz_with_hat,"sembra che stia per prendermi il raffreddore, il che potrebbe aiutare a spiegare il sonno scarso"
+0,1468758539,Mar Apr 07 03:34:37 PDT 2009,NO_QUERY,becwestlund,rivoglio la mia patente
+0,1468758577,Mar Apr 07 03:34:38 PDT 2009,NO_QUERY,evamen,sta pensando a quanto sono brevi le vacanze di Pasqua anche prima di iniziare
+0,1468758958,Mar Apr 07 03:34:47 PDT 2009,NO_QUERY,jennarz,"Non riesco a dormire perché il mio tesoro non è qui con me. Lo so, è sdolcinato. Lol"
+0,1468758983,Mar Apr 07 03:34:47 PDT 2009,NO_QUERY,NaughtyDrawer,è ora di uscire... non sembra molto bello fuori però. xx
+0,1468761980,Mar Apr 07 03:35:48 PDT 2009,NO_QUERY,ashleymx,Ho perso l'odore di macchina nuova
+0,1468762061,Mar Apr 07 03:35:50 PDT 2009,NO_QUERY,TheBick,@SeanGolan lavoro? che lavoro? e cos'è PIRG? e questo significa che non avremo un adeguato tempo Feto su una botte di birra leggera dopo la laurea?
+0,1468762444,Mar Apr 07 03:35:57 PDT 2009,NO_QUERY,Mizm20,I miei amici dell'Oregon tornano a casa oggi!!
+0,1468762613,Mar Apr 07 03:36:00 PDT 2009,NO_QUERY,whatdayisit,dice che Pet Society non si carica, che tristezza. stupido computer dell'ufficio http://plurk.com/p/n1623
+0,1468762692,Mar Apr 07 03:36:01 PDT 2009,NO_QUERY,bexxi,"@zamon E pensare che ti ha fatto guadagnare un po' di tempo libero dal lavoro. Comunque, sono sicuro che a casa hai più pace e tranquillità per lavorare."
+0,1468762827,Mar Apr 07 03:36:04 PDT 2009,NO_QUERY,LisaMarie217,C'è un piccione addomesticato che dorme sul mio barbecue fuori vicino all'ingresso di casa mia e che torna ogni giorno! Non lo voglio qui per sempre
+0,1468763191,Mar Apr 07 03:36:10 PDT 2009,NO_QUERY,Ann_Travis,di nuovo al lavoro.... e non sono dell'umore giusto
+0,1468763223,Mar Apr 07 03:36:11 PDT 2009,NO_QUERY,Kayleigh_Stack,@bradiewebbstack aww povero signor calzino, vuole solo una doccia, hai ricevuto il mio invito? spero tu possa venire xx
+0,1468763440,Mar Apr 07 03:36:15 PDT 2009,NO_QUERY,GGTaryn,@jessielynne aww che dolce! Vorrei vivere a Chicago. Voglio aiutare!
+0,1468763662,Mar Apr 07 03:36:20 PDT 2009,NO_QUERY,chloeee1993,@bradiewebbstack aww vorrei che mi parlassi... potrei arrabbiarmi adesso
+0,1468763716,Mar Apr 07 03:36:21 PDT 2009,NO_QUERY,jessbabe,il mio capezzolo destro è dolorante
+0,1468763767,Mar Apr 07 03:36:23 PDT 2009,NO_QUERY,josietot,è estate nelle Filippine e ho un sacco di lavoro... niente estate per me questo 2009
+0,1468763857,Mar Apr 07 03:36:24 PDT 2009,NO_QUERY,MissMog,Un altro giorno!!! uguale ai giorni passati!!!! uguale ai giorni a venire!!!
+0,1468764180,Mar Apr 07 03:36:32 PDT 2009,NO_QUERY,dannyhinde,deve fare i compiti oggi
+0,1468764264,Mar Apr 07 03:36:33 PDT 2009,NO_QUERY,killercalione,"@mileycyrus amico, devo fare una corsa di 4 miglia nella fredda Boston dopo essermi appena svegliato. Che schifo"
+0,146876441
